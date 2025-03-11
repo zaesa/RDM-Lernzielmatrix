@@ -1,0 +1,716 @@
+---
+title: "Lernzielmatrix - Kurzübersicht"
+author: "Sandra Zänkert"
+subtitle: "Von einer die auszog etwas zu visualisieren."
+toc: true
+toc-depth: 2
+format: 
+  html:
+    code-fold: true
+    code-summary: "Show the code"
+    embed-resources: true
+bibliography:
+  - gratefuler-refs.bib
+  - references.bib
+---
+
+Load packages
+
+```{r}
+#| output: false
+#| code-fold: show
+
+library(xlsx)
+library(tidyverse)
+library(ggplot2)
+library(RColorBrewer)
+library(kableExtra)
+library(grateful)
+```
+
+Load data
+
+```{r}
+data <- as.data.frame(read.xlsx("data/EXCEL_full.xlsx", 1))
+```
+
+## Lernzielmatrix
+
+Fragestellung: Die Lernzielmatrix [@petersen2022] wurde von Expert:innen aus dem Bereich Forschungsdatenmanagement erstellt. Sie beinhaltet eine Auflistung von Lernzielen für die Gruppen Bachelor- und Masterstudierende, so wie Doktorand:innen (PhD) unter Angabe von 4 verschiedenen Kompetenzbereichen und einer Abstufung von 6 Lernstufen. Das Ziel ist eine Visualisierung.
+
+::: callout-tip
+Codierung der Kompetenzbereiche:
+
+SK = Sachkompetenz; MK = Methodenkompetenz; SoK = Sozialkompetenz; SeK = Selbstkompetenz
+
+Codierung der Lernniveaustufen:
+
+1 = Erinnern/Wissen; 2 = Verstehen; 3 = Anwenden; 4 = Analysieren; 5 = Beurteilen; 6 = Erschaffen
+:::
+
+In einem ersten Schritt wurde die Tabelle als CSV von Zenodo geladen und in ein auswertbares Format gebracht. Hierzu wurden mittels eines Python-Skripts die Kompetenzbereiche und Lernstufen in eigene Spalten transferiert.
+
+::: callout-note
+Die CSV-Tabelle war nicht gut einlesbar, da bspw. die Kompetenzbereiche und Lernstufen teils mit und teils ohne Leerzeichen voneinander getrennt waren. Daher mussten im Python-Code einige "Ausnahmen" berücksichtig werden.
+:::
+
+Als Resultat ergab sich eine Tabelle mit dem Header:
+
+```{r}
+data %>%
+  select(!"NA.") %>%
+  head(n=1) %>%
+  kbl()
+```
+
+Jedem Lernziel ist mindestens ein Kompetenzbereich und eine Lernstufe zugeordnet. Es können einem Lernziel aber auch mehrere Kompetenzbereiche plus Lernstufen zugeordnet sein. Für eine bessere Referenzierbarkeit der Lernziele wird vorgeschlagen, für diese Kürzel zu vergeben, welche sich bspw. aus dem Level, dem FDM-Themenbereich und einer fortlaufenden Numerierung zusammensetzt.
+
+::: callout-note
+Bei dieser Ansicht fällt u.a. auf, dass es fehlende Werte bei den Lernzielen gibt (s. Data Stewards: "Recht und Ethik" und "Unterstützungsstruktur").
+:::
+
+::: panel-tabset
+## Bachelor
+
+::: panel-tabset
+### Grundlagen und übergreifende Konzepte
+
+```{r}
+data %>%
+  filter(Level == "Bachelor" & FDM.Themenbereich == "Grundlagen und übergreifende Konzepte") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Arbeiten mit Daten
+
+```{r}
+data %>%
+  filter(Level == "Bachelor" & FDM.Themenbereich == "Arbeiten mit Daten") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Dokumentation und Metadaten
+
+```{r}
+data %>%
+  filter(Level == "Bachelor" & FDM.Themenbereich == "Dokumentation und Metadaten") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Langzeitarchivierung, Publikation, Nachnutzung
+
+```{r}
+data %>%
+  filter(Level == "Bachelor" & FDM.Themenbereich == "Langzeitarchivierung, Publikation, Nachnutzung") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Recht und Ethik
+
+```{r}
+data %>%
+  filter(Level == "Bachelor" & FDM.Themenbereich == "Recht und Ethik") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Unterstützungsstrukturen
+
+```{r}
+data %>%
+  filter(Level == "Bachelor" & FDM.Themenbereich == "Unterstützungsstrukturen") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+:::
+
+## Master
+
+::: panel-tabset
+### Grundlagen und übergreifende Konzepte
+
+```{r}
+data %>%
+  filter(Level == "Master" & FDM.Themenbereich == "Grundlagen und übergreifende Konzepte") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Arbeiten mit Daten
+
+```{r}
+data %>%
+  filter(Level == "Master" & FDM.Themenbereich == "Arbeiten mit Daten") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Dokumentation und Metadaten
+
+```{r}
+data %>%
+  filter(Level == "Master" & FDM.Themenbereich == "Dokumentation und Metadaten") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Langzeitarchivierung, Publikation, Nachnutzung
+
+```{r}
+data %>%
+  filter(Level == "Master" & FDM.Themenbereich == "Langzeitarchivierung, Publikation, Nachnutzung") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Recht und Ethik
+
+```{r}
+data %>%
+  filter(Level == "Master" & FDM.Themenbereich == "Recht und Ethik") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Unterstützungsstrukturen
+
+```{r}
+data %>%
+  filter(Level == "Master" & FDM.Themenbereich == "Unterstützungsstrukturen") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+:::
+
+## PhD
+
+::: panel-tabset
+### Grundlagen und übergreifende Konzepte
+
+```{r}
+data %>%
+  filter(Level == "PhD" & FDM.Themenbereich == "Grundlagen und übergreifende Konzepte") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Arbeiten mit Daten
+
+```{r}
+data %>%
+  filter(Level == "PhD" & FDM.Themenbereich == "Arbeiten mit Daten") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Dokumentation und Metadaten
+
+```{r}
+data %>%
+  filter(Level == "PhD" & FDM.Themenbereich == "Dokumentation und Metadaten") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Langzeitarchivierung, Publikation, Nachnutzung
+
+```{r}
+data %>%
+  filter(Level == "PhD" & FDM.Themenbereich == "Langzeitarchivierung, Publikation, Nachnutzung") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Recht und Ethik
+
+```{r}
+data %>%
+  filter(Level == "PhD" & FDM.Themenbereich == "Recht und Ethik") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Unterstützungsstrukturen
+
+```{r}
+data %>%
+  filter(Level == "PhD" & FDM.Themenbereich == "Unterstützungsstrukturen") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+:::
+
+## Data Stewards
+
+::: panel-tabset
+### Grundlagen und übergreifende Konzepte
+
+```{r}
+data %>%
+  filter(Level == "Data Stewards" & FDM.Themenbereich == "Grundlagen und übergreifende Konzepte") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Arbeiten mit Daten
+
+```{r}
+data %>%
+  filter(Level == "Data Stewards" & FDM.Themenbereich == "Arbeiten mit Daten") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Dokumentation und Metadaten
+
+```{r}
+data %>%
+  filter(Level == "Data Stewards" & FDM.Themenbereich == "Dokumentation und Metadaten") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Langzeitarchivierung, Publikation, Nachnutzung
+
+```{r}
+data %>%
+  filter(Level == "Data Stewards" & FDM.Themenbereich == "Langzeitarchivierung, Publikation, Nachnutzung") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Recht und Ethik
+
+```{r}
+data %>%
+  filter(Level == "Data Stewards" & FDM.Themenbereich == "Recht und Ethik") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+
+### Unterstützungsstrukturen
+
+```{r}
+data %>%
+  filter(Level == "Data Stewards" & FDM.Themenbereich == "Unterstützungsstrukturen") %>%
+  select(!c("NA.", "FDM.Themenbereich", "Level")) %>%
+  kbl() %>%
+  kableExtra::collapse_rows(columns = c(1,2), valign = "top")
+```
+:::
+:::
+
+## Visualisierung
+
+Bei einem Workshop zur DataStew Publikation [@förstner2023] und der Beschäftigung mit der dort vorgestellten Profile, kam die Frage auf, wie ein aus der Lernzielmatrix entnommenes Profil für Data Stewards aussehen könnte. Daher wird hier in einem ersten Schritt versucht die Lernziele und Lernstufen visuell aufzuarbeiten. Hierzu werden die Kompetenzbereiche vorerst als "gleichwertig" aufaddiert. Eine differenziertere Betrachtung steht aus.
+
+### Vergleich der 4 Level
+
+Zuerst soll eine Gegenüberstellung der vier Level vorgenommen werden. Zur besseren Übersicht werden vorerst die FDM-Themenbereiche zusammengefasst und nicht auf Sub-Themen-Ebene dargestellt. Die Kompetenzen und Lernstufen bauen aufeinander auf, daher kommen für jedes Level mehr Kompetenzen hinzu, die vorherigen bleiben erhalten.
+
+::: panel-tabset
+#### Bachelor
+
+-   nur Bachelor
+
+```{r}
+#| warning: false
+
+data %>%
+  mutate(Kompentenzbereich = recode(Kompentenzbereich, "M"="MK", "Mk" = "MK", "Sok" = "SoK"),
+         Level = fct_relevel(Level, "Bachelor", "Master", "PhD", "Data Stewards"),
+         FDM.Themenbereich = fct_relevel(FDM.Themenbereich, "Grundlagen und übergreifende Konzepte",
+                                         "Arbeiten mit Daten", "Dokumentation und Metadaten",
+                                         "Langzeitarchivierung, Publikation, Nachnutzung",
+                                         "Recht und Ethik", "Unterstützungsstrukturen"),
+         Lernstufe = fct_relevel(Lernstufe, "1", "2", "3", "4", "5", "6")) %>%
+  filter(Level == "Bachelor") %>%
+  group_by(FDM.Themenbereich, Kompentenzbereich, Lernstufe) %>%
+  summarise(count = n()) %>%
+  ungroup() %>%
+  ggplot(aes(x=FDM.Themenbereich, y = count, fill = forcats::fct_rev(Lernstufe))) +
+  geom_bar(position = "stack", stat = "identity") +
+  theme_bw() +
+  scale_x_discrete(limits=rev) +
+  scale_fill_brewer(direction = -1, drop=FALSE) +
+  ylim(0,180) +
+  labs(x="Themenbereiche FDM", y = "Anzahl Kompetenzbereiche", fill = "Lernstufen") +
+  coord_flip()
+```
+
+#### Master
+
+-   inkl. Bachelor
+
+```{r}
+#| warning: false
+
+
+data %>%
+  mutate(Kompentenzbereich = recode(Kompentenzbereich, "M"="MK", "Mk" = "MK", "Sok" = "SoK"),
+         Level = fct_relevel(Level, "Bachelor", "Master", "PhD", "Data Stewards"),
+         FDM.Themenbereich = fct_relevel(FDM.Themenbereich, "Grundlagen und übergreifende Konzepte",
+                                         "Arbeiten mit Daten", "Dokumentation und Metadaten",
+                                         "Langzeitarchivierung, Publikation, Nachnutzung",
+                                         "Recht und Ethik", "Unterstützungsstrukturen"),
+         Lernstufe = fct_relevel(Lernstufe, "1", "2", "3", "4", "5", "6")) %>%
+  filter(Level == "Bachelor" | Level == "Master") %>%
+  group_by(FDM.Themenbereich, Kompentenzbereich, Lernstufe) %>%
+  summarise(count = n()) %>%
+  ungroup() %>%
+  ggplot(aes(x=FDM.Themenbereich, y = count, fill = forcats::fct_rev(Lernstufe))) +
+  geom_bar(position = "stack", stat = "identity") +
+  theme_bw() +
+  scale_x_discrete(limits=rev) +
+  scale_fill_brewer(direction = -1, drop=FALSE) +
+  ylim(0,180) +
+  labs(x="Themenbereiche FDM", y = "Anzahl Kompetenzbereiche", fill = "Lernstufen") +
+  coord_flip()
+```
+
+#### PhD
+
+-   inkl. Bachelor, Master
+
+```{r}
+#| warning: false
+
+data %>%
+  mutate(Kompentenzbereich = recode(Kompentenzbereich, "M"="MK", "Mk" = "MK", "Sok" = "SoK"),
+         Level = fct_relevel(Level, "Bachelor", "Master", "PhD", "Data Stewards"),
+         FDM.Themenbereich = fct_relevel(FDM.Themenbereich, "Grundlagen und übergreifende Konzepte",
+                                         "Arbeiten mit Daten", "Dokumentation und Metadaten",
+                                         "Langzeitarchivierung, Publikation, Nachnutzung",
+                                         "Recht und Ethik", "Unterstützungsstrukturen"),
+         Lernstufe = fct_relevel(Lernstufe, "1", "2", "3", "4", "5", "6")) %>%
+  filter(Level == "Bachelor" | Level == "Master" | Level == "PhD") %>%
+  group_by(FDM.Themenbereich, Kompentenzbereich, Lernstufe) %>%
+  summarise(count = n()) %>%
+  ungroup() %>%
+  drop_na(Lernstufe) %>%
+  ggplot(aes(x=FDM.Themenbereich, y = count, fill = forcats::fct_rev(Lernstufe))) +
+  geom_bar(position = "stack", stat = "identity") +
+  theme_bw() +
+  scale_x_discrete(limits=rev) +
+  scale_fill_brewer(direction = -1, drop=FALSE) +
+  ylim(0,180) +
+  labs(x="Themenbereiche FDM", y = "Anzahl Kompetenzbereiche", fill = "Lernstufen") +
+  coord_flip()
+```
+
+#### Data Stewards
+
+-   inkl. Bachelor, Master, PhD
+
+```{r}
+#| warning: false
+
+data %>%
+  mutate(Kompentenzbereich = recode(Kompentenzbereich, "M"="MK", "Mk" = "MK", "Sok" = "SoK"),
+         Level = fct_relevel(Level, "Bachelor", "Master", "PhD", "Data Stewards"),
+         FDM.Themenbereich = fct_relevel(FDM.Themenbereich, "Grundlagen und übergreifende Konzepte",
+                                         "Arbeiten mit Daten", "Dokumentation und Metadaten",
+                                         "Langzeitarchivierung, Publikation, Nachnutzung",
+                                         "Recht und Ethik", "Unterstützungsstrukturen"),
+         Lernstufe = fct_relevel(Lernstufe, "1", "2", "3", "4", "5", "6")) %>%
+  #filter(Level == "Bachelor" | Level == "Master" | Level == "PhD" | Level == "Data Steward") %>%
+  group_by(FDM.Themenbereich, Kompentenzbereich, Lernstufe) %>%
+  summarise(count = n()) %>%
+  ungroup() %>%
+  drop_na(Lernstufe) %>%
+  ggplot(aes(x=FDM.Themenbereich, y = count, fill = forcats::fct_rev(Lernstufe))) +
+  geom_bar(position = "stack", stat = "identity") +
+  theme_bw() +
+  scale_x_discrete(limits=rev) +
+  scale_fill_brewer(direction = -1, drop=FALSE) +
+  ylim(0,180) +
+  labs(x="Themenbereiche FDM", y = "Anzahl Kompetenzbereiche", fill = "Lernstufen") +
+  coord_flip()
+```
+:::
+
+### Kombinierte Ansicht der 4 Level
+
+In der folgenden Übersicht sind aktuell die Kompetenzen für jedes Level exklusive der vorhergehenden Level dargestellt.
+
+```{r}
+#| warning: false
+
+data %>%
+  mutate(Kompentenzbereich = recode(Kompentenzbereich, "M"="MK", "Mk" = "MK", "Sok" = "SoK"),
+         Level = fct_relevel(Level, "Bachelor", "Master", "PhD", "Data Stewards"),
+         FDM.Themenbereich = fct_relevel(FDM.Themenbereich, "Grundlagen und übergreifende Konzepte",
+                                         "Arbeiten mit Daten", "Dokumentation und Metadaten",
+                                         "Langzeitarchivierung, Publikation, Nachnutzung",
+                                         "Recht und Ethik", "Unterstützungsstrukturen"),
+         Lernstufe = fct_relevel(Lernstufe, "1", "2", "3", "4", "5", "6")) %>%
+  #filter(Level == "Bachelor" | Level == "Master" | Level == "PhD" | Level == "Data Steward") %>%
+  group_by(Level, FDM.Themenbereich, Kompentenzbereich, Lernstufe) %>%
+  summarise(count = n()) %>%
+  ungroup() %>%
+  drop_na(Lernstufe) %>%
+  ggplot(aes(x=FDM.Themenbereich, y = count, fill = forcats::fct_rev(Lernstufe))) +
+  geom_bar(position = "stack", stat = "identity") +
+  theme_bw() +
+  scale_x_discrete(limits=rev) +
+  scale_fill_brewer(direction = -1, drop=FALSE) +
+  ylim(0,90) +
+  labs(x="Themenbereiche FDM", y = "Anzahl Kompetenzbereiche", fill = "Lernstufen") +
+  coord_flip() +
+  facet_grid(rows = vars(Level))
+```
+
+## Data Stewards Profil
+
+In der DataStew-Publikation [@förstner2023] werden Profile für verschiedene Data Stewards vorgestellt, welche im Bereich Forschungsdatenmanagement tätig sind. Im Folgenden zeigt sich ein Profil, welches sich aus der Lernzielmatrix ergibt. Es hat noch kein Matching zwischen den in den DataStew-Profilen vorgeschlagenen Kategorien und der hier dargestellten Lernzielmatrix stattgefunden. Dieser Abgleich wäre ein nächster Schritt.
+
+::: {.panel-tabset}
+
+### FDM Themenbereiche
+
+Profil für Data Stewards über FDM-Themenbereiche mit aufaddierten Kompetenzbereichen.
+
+```{r}
+#| error: false
+#| warning: false
+#| fig-height: 10
+
+data %>%
+  mutate(Kompentenzbereich = recode(Kompentenzbereich, "M"="MK", "Mk" = "MK", "Sok" = "SoK"),
+         Level = fct_relevel(Level, "Bachelor", "Master", "PhD", "Data Stewards"),
+         FDM.Themenbereich = fct_relevel(FDM.Themenbereich, "Grundlagen und übergreifende Konzepte",
+                                         "Arbeiten mit Daten", "Dokumentation und Metadaten",
+                                         "Langzeitarchivierung, Publikation, Nachnutzung",
+                                         "Recht und Ethik", "Unterstützungsstrukturen"),
+         FDM.Sub.Themenbereich = fct_recode(FDM.Sub.Themenbereich, 
+                                            "Allgemeine Grundsätze / Konzepte FDM" = "Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements",
+                                            "Forschungsdaten-Policies" = "Forschungsdaten-Policies", 
+"Datenmanagementpläne" = "Datenmanagementpläne", 
+"FAIR-Prinzipien" = "FAIR-Prinzipien", 
+"Open X" = "Open X (Open Data, Open Source, Open Science, etc.)", 
+"Ordnung und Struktur, Versionierung" = "Ordnung und Struktur, Versionierung", 
+"Daten, Datentypen, Datenformate " = "Daten, Datentypen, Datenformate ", 
+"Datenspeicherung und Backup" = "Datenspeicherung und Backup", 
+"Datensicherheit " = "Datensicherheit ",
+"Datenqualität" = "Datenqualität",
+"Tools" = "Tools",
+"(Forschungs-)Software & Coding" = "(Forschungs-)Software & Coding", 
+"Datendokumentation" = "Datendokumentation",
+"Metadaten und Metadatenstandards" ="Metadaten und Metadatenstandards",
+"Persistente Identifikatoren" ="Persistente Identifikatoren",
+"PID Definition und Funktion"= "Definition persistente Identifikatoren (PID); Vor- und Nachteile von PIDs; Funktionen von PIDs; nähere Beschreibung ausgewählter PIDs; Aufbau von PIDs", 
+"Ontologien und kontrollierte Vokabulare" = "Ontologien und kontrollierte Vokabulare",
+"Langzeitarchivierung von Daten" ="Langzeitarchivierung von Daten",
+"Publikationswege für Daten" ="Publikationswege für Daten",
+"Repositorien" = "Repositorien", 
+"Daten nachnutzen" = "Daten nachnutzen",
+"Allgemeine rechtliche Aspekte" ="Allgemeine rechtliche Aspekte" , 
+"Datenschutz und personenbezogene Daten" = "Datenschutz und personenbezogene Daten",
+"Informierte Einwilligung" = "Informierte Einwilligung" , 
+"Anonymisierung und Pseudonymisierung" = "Anonymisierung und Pseudonymisierung",
+"Ethische Aspekte und GWP" = "Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)", 
+"Rollen im Datenmanagement" = "Rollen im Datenmanagement / Data Stewardship" ,
+"Handlungsfelder im FDM" = "Handlungsfelder im FDM; typische Problemstellungen im beruflichen Zusammenhang" , 
+"Relevante Infrastrukturen" = "Relevante Infrastrukturen", 
+"Didaktik" = "Didaktik" , 
+"Beratung" = "Beratung"),
+         Lernstufe = fct_relevel(Lernstufe, "1", "2", "3", "4", "5", "6")) %>%
+  #filter(Level == "Bachelor" | Level == "Master" | Level == "PhD" | Level == "Data Steward") %>%
+  group_by(FDM.Themenbereich, FDM.Sub.Themenbereich, Kompentenzbereich, Lernstufe) %>%
+  summarise(count = n()) %>%
+  ungroup() %>%
+  drop_na(Lernstufe) %>%
+  ggplot(aes(x=FDM.Sub.Themenbereich, y = count, fill = forcats::fct_rev(Lernstufe))) +
+  geom_bar(position = "stack", stat = "identity") +
+  theme_bw() +
+  scale_x_discrete(limits=rev) +
+  scale_fill_brewer(direction = -1, drop=FALSE) +
+  #ylim(0,180) +
+  labs(x="Themenbereiche FDM", y = "Anzahl Kompetenzbereiche", fill = "Lernstufen") +
+  coord_flip() +
+  facet_grid(rows = vars(FDM.Themenbereich), scales = "free",
+             labeller = label_wrap_gen(multi_line = TRUE))
+
+```
+
+### Kompetenzbereiche
+
+::: callout-tip
+Codierung der Kompetenzbereiche:
+
+SK = Sachkompetenz; MK = Methodenkompetenz; SoK = Sozialkompetenz; SeK = Selbstkompetenz
+:::
+
+::: {.panel-tabset}
+
+#### Gesamt
+
+Profil für Data Stewards über die Kompetenzbereiche mit entsprechenden Lernstufen (keine Berücksichtigung der FDM-Themenbereiche).
+
+```{r}
+#| error: false
+#| warning: false
+
+
+data %>%
+  mutate(Kompentenzbereich = recode(Kompentenzbereich, "M"="MK", "Mk" = "MK", "Sok" = "SoK"),
+         Level = fct_relevel(Level, "Bachelor", "Master", "PhD", "Data Stewards"),
+         FDM.Themenbereich = fct_relevel(FDM.Themenbereich, "Grundlagen und übergreifende Konzepte",
+                                         "Arbeiten mit Daten", "Dokumentation und Metadaten",
+                                         "Langzeitarchivierung, Publikation, Nachnutzung",
+                                         "Recht und Ethik", "Unterstützungsstrukturen"),
+         FDM.Sub.Themenbereich = fct_recode(FDM.Sub.Themenbereich, 
+                                            "Allgemeine Grundsätze / Konzepte FDM" = "Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements",
+                                            "Forschungsdaten-Policies" = "Forschungsdaten-Policies", 
+"Datenmanagementpläne" = "Datenmanagementpläne", 
+"FAIR-Prinzipien" = "FAIR-Prinzipien", 
+"Open X" = "Open X (Open Data, Open Source, Open Science, etc.)", 
+"Ordnung und Struktur, Versionierung" = "Ordnung und Struktur, Versionierung", 
+"Daten, Datentypen, Datenformate " = "Daten, Datentypen, Datenformate ", 
+"Datenspeicherung und Backup" = "Datenspeicherung und Backup", 
+"Datensicherheit " = "Datensicherheit ",
+"Datenqualität" = "Datenqualität",
+"Tools" = "Tools",
+"(Forschungs-)Software & Coding" = "(Forschungs-)Software & Coding", 
+"Datendokumentation" = "Datendokumentation",
+"Metadaten und Metadatenstandards" ="Metadaten und Metadatenstandards",
+"Persistente Identifikatoren" ="Persistente Identifikatoren",
+"PID Definition und Funktion"= "Definition persistente Identifikatoren (PID); Vor- und Nachteile von PIDs; Funktionen von PIDs; nähere Beschreibung ausgewählter PIDs; Aufbau von PIDs", 
+"Ontologien und kontrollierte Vokabulare" = "Ontologien und kontrollierte Vokabulare",
+"Langzeitarchivierung von Daten" ="Langzeitarchivierung von Daten",
+"Publikationswege für Daten" ="Publikationswege für Daten",
+"Repositorien" = "Repositorien", 
+"Daten nachnutzen" = "Daten nachnutzen",
+"Allgemeine rechtliche Aspekte" ="Allgemeine rechtliche Aspekte" , 
+"Datenschutz und personenbezogene Daten" = "Datenschutz und personenbezogene Daten",
+"Informierte Einwilligung" = "Informierte Einwilligung" , 
+"Anonymisierung und Pseudonymisierung" = "Anonymisierung und Pseudonymisierung",
+"Ethische Aspekte und GWP" = "Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)", 
+"Rollen im Datenmanagement" = "Rollen im Datenmanagement / Data Stewardship" ,
+"Handlungsfelder im FDM" = "Handlungsfelder im FDM; typische Problemstellungen im beruflichen Zusammenhang" , 
+"Relevante Infrastrukturen" = "Relevante Infrastrukturen", 
+"Didaktik" = "Didaktik" , 
+"Beratung" = "Beratung"),
+         Lernstufe = fct_relevel(Lernstufe, "1", "2", "3", "4", "5", "6")) %>%
+  #filter(Level == "Bachelor" | Level == "Master" | Level == "PhD" | Level == "Data Steward") %>%
+  group_by(FDM.Themenbereich, Kompentenzbereich, Lernstufe) %>%
+  summarise(count = n()) %>%
+  ungroup() %>%
+  drop_na(Lernstufe) %>%
+  ggplot(aes(x=Kompentenzbereich, y = count, fill = forcats::fct_rev(Lernstufe))) +
+  geom_bar(position = "stack", stat = "identity") +
+  theme_bw() +
+  scale_x_discrete(limits=rev) +
+  scale_fill_brewer(direction = -1, drop=FALSE) +
+  #ylim(0,180) +
+  labs(x="Kompetenzbereiche", y = "Anzahl Kompetenzbereiche", fill = "Lernstufen") +
+  coord_flip() 
+```
+
+#### Themenbereiche
+
+Profil für Data Stewards über die Kompetenzbereiche für die jeweiligen FDM-Themenbereiche.
+
+```{r}
+#| error: false
+#| warning: false
+#| fig-height: 10
+
+data %>%
+  mutate(Kompentenzbereich = recode(Kompentenzbereich, "M"="MK", "Mk" = "MK", "Sok" = "SoK"),
+         Level = fct_relevel(Level, "Bachelor", "Master", "PhD", "Data Stewards"),
+         FDM.Themenbereich = fct_relevel(FDM.Themenbereich, "Grundlagen und übergreifende Konzepte",
+                                         "Arbeiten mit Daten", "Dokumentation und Metadaten",
+                                         "Langzeitarchivierung, Publikation, Nachnutzung",
+                                         "Recht und Ethik", "Unterstützungsstrukturen"),
+         FDM.Sub.Themenbereich = fct_recode(FDM.Sub.Themenbereich, 
+                                            "Allgemeine Grundsätze / Konzepte FDM" = "Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements",
+                                            "Forschungsdaten-Policies" = "Forschungsdaten-Policies", 
+"Datenmanagementpläne" = "Datenmanagementpläne", 
+"FAIR-Prinzipien" = "FAIR-Prinzipien", 
+"Open X" = "Open X (Open Data, Open Source, Open Science, etc.)", 
+"Ordnung und Struktur, Versionierung" = "Ordnung und Struktur, Versionierung", 
+"Daten, Datentypen, Datenformate " = "Daten, Datentypen, Datenformate ", 
+"Datenspeicherung und Backup" = "Datenspeicherung und Backup", 
+"Datensicherheit " = "Datensicherheit ",
+"Datenqualität" = "Datenqualität",
+"Tools" = "Tools",
+"(Forschungs-)Software & Coding" = "(Forschungs-)Software & Coding", 
+"Datendokumentation" = "Datendokumentation",
+"Metadaten und Metadatenstandards" ="Metadaten und Metadatenstandards",
+"Persistente Identifikatoren" ="Persistente Identifikatoren",
+"PID Definition und Funktion"= "Definition persistente Identifikatoren (PID); Vor- und Nachteile von PIDs; Funktionen von PIDs; nähere Beschreibung ausgewählter PIDs; Aufbau von PIDs", 
+"Ontologien und kontrollierte Vokabulare" = "Ontologien und kontrollierte Vokabulare",
+"Langzeitarchivierung von Daten" ="Langzeitarchivierung von Daten",
+"Publikationswege für Daten" ="Publikationswege für Daten",
+"Repositorien" = "Repositorien", 
+"Daten nachnutzen" = "Daten nachnutzen",
+"Allgemeine rechtliche Aspekte" ="Allgemeine rechtliche Aspekte" , 
+"Datenschutz und personenbezogene Daten" = "Datenschutz und personenbezogene Daten",
+"Informierte Einwilligung" = "Informierte Einwilligung" , 
+"Anonymisierung und Pseudonymisierung" = "Anonymisierung und Pseudonymisierung",
+"Ethische Aspekte und GWP" = "Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)", 
+"Rollen im Datenmanagement" = "Rollen im Datenmanagement / Data Stewardship" ,
+"Handlungsfelder im FDM" = "Handlungsfelder im FDM; typische Problemstellungen im beruflichen Zusammenhang" , 
+"Relevante Infrastrukturen" = "Relevante Infrastrukturen", 
+"Didaktik" = "Didaktik" , 
+"Beratung" = "Beratung"),
+         Lernstufe = fct_relevel(Lernstufe, "1", "2", "3", "4", "5", "6")) %>%
+  #filter(Level == "Bachelor" | Level == "Master" | Level == "PhD" | Level == "Data Steward") %>%
+  group_by(FDM.Themenbereich, Kompentenzbereich, Lernstufe) %>%
+  summarise(count = n()) %>%
+  ungroup() %>%
+  drop_na(Lernstufe) %>%
+  ggplot(aes(x=Kompentenzbereich, y = count, fill = forcats::fct_rev(Lernstufe))) +
+  geom_bar(position = "stack", stat = "identity") +
+  theme_bw() +
+  scale_x_discrete(limits=rev) +
+  scale_fill_brewer(direction = -1, drop=FALSE) +
+  #ylim(0,180) +
+  labs(x="Kompetenzbereiche", y = "Anzahl Kompetenzbereiche", fill = "Lernstufen") +
+  coord_flip() +
+  facet_grid(rows = vars(FDM.Themenbereich),
+             labeller = label_wrap_gen(multi_line = TRUE))
+```
+
+:::
+
+:::
+
+## Pakete
+
+```{r}
+#| warning: false
+
+#pkgs <- scan_packages()
+#get_citations(pkgs$pkg, out.dir = ".", bib.file = "gratefuler-refs")
+cite_packages(output = "table", out.dir = ".") %>% kbl(format = "markdown")
+
+```
