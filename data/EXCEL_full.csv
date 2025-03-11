@@ -1,1 +1,557 @@
-
+	FDM Themenbereich	FDM Sub-Themenbereich	Level	Lernziel	Kompentenzbereich	Lernstufe
+0	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Bachelor	Lernende können die Relevanz und Vor- und Nachteile von FDM für die Forschung allgemein sowie für die eigene Forschung beschreiben.	SK	2
+1	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Bachelor	Lernende können die Relevanz und Vor- und Nachteile von FDM für die Forschung allgemein sowie für die eigene Forschung beschreiben.	SeK	1
+2	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Bachelor	Lernende können die Definition von Forschungsdaten wiedergeben und verschiedene Formen von Forschungsdaten benennen.	SK	1
+3	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Bachelor	Lernende können den FDL-Zyklus beschreiben und dessen Stationen benennen.	SK	1
+4	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Master	Lernende können Maßnahmen für gutes FDM in verschiedenen Stationen des FDL-Zyklus beschreiben.	SK	2
+5	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Master	Lernende können die Relevanz und Vor- und Nachteile von FDM diskutieren.	SK	2
+6	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Master	Lernende können die Relevanz und Vor- und Nachteile von FDM diskutieren.	SoK	2
+7	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Master	Lernende können die Relevanz und Vor- und Nachteile von FDM diskutieren.	SeK	2
+8	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Master	Lernende können allgemeine Problemstellungen im Bereich des FDM benennen.	SK	2
+9	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Master	Lernende können eigene Tätigkeiten in einem Forschungsprozess den Stationen des FDL-Zyklus zuordnen.	SK	2
+10	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Master	Lernende können eigene Tätigkeiten in einem Forschungsprozess den Stationen des FDL-Zyklus zuordnen.	SeK	2
+11	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	PhD	Lernende können Maßnahmen für gutes FDM in verschiedenen Stationen des FDL-Zyklus beschreiben und diese begründen.	SK	3
+12	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	PhD	Lernende können allgemeine und spezifische Problemstellungen im Bereich des FDM erkennen und beschreiben.	SK	4
+13	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	PhD	Lernende können aktuelle Entwicklungen/ Initiativen, z. B. NFDI, EOSC benennen	SK	1
+14	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können vermitteln, was FDM beinhaltet und weshalb es für Forschungsprozesse von Bedeutung ist.	SK	2
+15	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können vermitteln, was FDM beinhaltet und weshalb es für Forschungsprozesse von Bedeutung ist.	MK	3
+16	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können vermitteln, was FDM beinhaltet und weshalb es für Forschungsprozesse von Bedeutung ist.	SoK	3
+17	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können vermitteln, welche Maßnahmen für gutes FDM an den Stationen des FDL-Zyklus von Bedeutung sind.	SK	3
+18	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können vermitteln, welche Maßnahmen für gutes FDM an den Stationen des FDL-Zyklus von Bedeutung sind.	MK	3
+19	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können vermitteln, welche Maßnahmen für gutes FDM an den Stationen des FDL-Zyklus von Bedeutung sind.	SoK	3
+20	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können bezüglich sinnvoller Maßnahmen für gutes FDM an den Stationen des FDL-Zyklusberaten.	SK	3
+21	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können bezüglich sinnvoller Maßnahmen für gutes FDM an den Stationen des FDL-Zyklusberaten.	MK	3
+22	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können bezüglich sinnvoller Maßnahmen für gutes FDM an den Stationen des FDL-Zyklusberaten.	SoK	3
+23	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können die Relevanz und Vor- und Nachteile von FDM für die Forschung allgemein sowie für die eigene Forschung aufzeigen und vermitteln.	SK	2
+24	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können die Relevanz und Vor- und Nachteile von FDM für die Forschung allgemein sowie für die eigene Forschung aufzeigen und vermitteln.	SoK	3
+25	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können die Relevanz und Vor- und Nachteile von FDM für die Forschung allgemein sowie für die eigene Forschung aufzeigen und vermitteln.	SeK	3
+26	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können zu den verschiedenen Aspekten des FDM (Daten, Datenlebenszyklus, Metadaten, FAIR-Prinzipien, Repositorien, Datenmanagementplan, Datenpublikation und -zitation, aktuelle Entwicklungen/ Initiativen: NFDI, EOSC, u. a. Orientierung geben.	SK	2
+27	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können zu den verschiedenen Aspekten des FDM (Daten, Datenlebenszyklus, Metadaten, FAIR-Prinzipien, Repositorien, Datenmanagementplan, Datenpublikation und -zitation, aktuelle Entwicklungen/ Initiativen: NFDI, EOSC, u. a. Orientierung geben.	MK	2
+28	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können zu den verschiedenen Aspekten des FDM (Daten, Datenlebenszyklus, Metadaten, FAIR-Prinzipien, Repositorien, Datenmanagementplan, Datenpublikation und -zitation, aktuelle Entwicklungen/ Initiativen: NFDI, EOSC, u. a. Orientierung geben.	SoK	3
+29	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können die Relevanz von FDM für gute wissenschaftliche Praxis vermitteln.	SK	4
+30	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können Problemstellungen im Bereich des FDM erkennen, analysieren und Lösungsstrategien entwickeln.	SK	5
+31	Grundlagen und übergreifende Konzepte	Allgemeine Grundsätze und Konzepte des Forschungsdaten-managements	Data Stewards	Lernende können Problemstellungen im Bereich des FDM erkennen, analysieren und Lösungsstrategien entwickeln.	MK	6
+32	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Bachelor	Lernende können erklären, was eine Policy ist.	SK	1
+33	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Bachelor	Lernende können beschreiben, was eine Forschungsdaten-Policy ist.	SK	1
+34	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Bachelor	Lernende können die Funktion einer Forschungsdaten-Policy beschreiben.	SK	2
+35	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Master	Lernende können den Unterschied zwischen disziplinären und institutionellen Forschungsdaten-Policies erläutern.	SK	2
+36	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Master	Lernende können Forschungsdaten-Policies kritisch diskutieren.	SK	4
+37	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Master	Lernende können Forschungsdaten-Policies kritisch diskutieren.	SoK	4
+38	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Master	Lernende können Forschungsdaten-Policies kritisch diskutieren.	SeK	3
+39	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	PhD	Lernende können verschiedene Formen von Forschungsdaten-Policies vergleichend beschreiben.	SK	3
+40	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	PhD	Lernende können wichtige Policies benennen und deren Inhalte kritisch diskutieren.	SK	3
+41	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	PhD	Lernende können wichtige Policies benennen und deren Inhalte kritisch diskutieren.	SoK	3
+42	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	PhD	Lernende können relevante Policies erkennen und hieraus einen Handlungsrahmen für ihr FDM ableiten.	SK	5
+43	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	PhD	Lernende können relevante Policies erkennen und hieraus einen Handlungsrahmen für ihr FDM ableiten.	SoK	5
+44	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	PhD	Lernende können relevante Policies erkennen und hieraus einen Handlungsrahmen für ihr FDM ableiten.	SeK	5
+45	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	PhD	Lernende können relevante Policies erkennen und hieraus einen Handlungsrahmen für ihr FDM ableiten.	MK	4
+46	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können unterschiedliche Forschungsdaten-Policies benennen und deren wichtigsten Inhalte an andere vermitteln.	SK	2
+47	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können unterschiedliche Forschungsdaten-Policies benennen und deren wichtigsten Inhalte an andere vermitteln.	SoK	2
+48	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können fachspezifische Policies benennen und deren wichtigsten Inhalte an andere vermitteln.	SK	2
+49	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können fachspezifische Policies benennen und deren wichtigsten Inhalte an andere vermitteln.	SoK	2
+50	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können eigenständig Informationen zu Richtlinien und Policies recherchieren und bedarfsgerecht für verschiedene Zielgruppen aufbereiten.	SK	4
+51	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können eigenständig Informationen zu Richtlinien und Policies recherchieren und bedarfsgerecht für verschiedene Zielgruppen aufbereiten.	MK	5
+52	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können eigenständig Informationen zu Richtlinien und Policies recherchieren und bedarfsgerecht für verschiedene Zielgruppen aufbereiten.	SoK	3
+53	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können relevante Policies/Leitlinien Forschungsprojekten zuordnen und hierzu beraten.	SK	4
+54	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können relevante Policies/Leitlinien Forschungsprojekten zuordnen und hierzu beraten.	MK	4
+55	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können relevante Policies/Leitlinien Forschungsprojekten zuordnen und hierzu beraten.	SoK	3
+56	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können aus Policies einen Handlungsrahmen für FDM-Maßnahmen ableiten sowie entsprechend schulen und beraten.	SK	5
+57	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können aus Policies einen Handlungsrahmen für FDM-Maßnahmen ableiten sowie entsprechend schulen und beraten.	MK	3
+58	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können aus Policies einen Handlungsrahmen für FDM-Maßnahmen ableiten sowie entsprechend schulen und beraten.	SoK	5
+59	Grundlagen und übergreifende Konzepte	Forschungsdaten-Policies	Data Stewards	Lernende können aus Policies einen Handlungsrahmen für FDM-Maßnahmen ableiten sowie entsprechend schulen und beraten.	SeK	5
+60	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Bachelor	Lernende können beschreiben, was ein DMP ist.	SK	2
+61	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Bachelor	Lernende können Komponenten eines DMP aufzählen.	SK	1
+62	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Bachelor	Lernende können die Relevanz eines DMP als Planungsinstrument beschreiben.	SK	2
+63	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Master	Lernende können unter Anleitung einfache DMPs für eigene Projekte erstellen.	SK	2
+64	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Master	Lernende können unter Anleitung einfache DMPs für eigene Projekte erstellen.	MK	3
+65	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Master	Lernende können Vor- und Nachteile eines DMP kritisch diskutieren.	SK	2
+66	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Master	Lernende können Vor- und Nachteile eines DMP kritisch diskutieren.	SoK	3
+67	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	PhD	Lernende können die Relevanz und das Konzept eines DMP erläutern und kritisch diskutieren.	SK	4
+68	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	PhD	Lernende können die Relevanz und das Konzept eines DMP erläutern und kritisch diskutieren.	SoK	4
+69	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	PhD	Lernende können eigenständig einen DMP (nach Förderer-Richtlinien) erstellen.	MK	3
+70	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	PhD	Lernende können Werkzeuge zum Erstellen von DMPs benennen.	SK	2
+71	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	PhD	Lernende können Werkzeuge zum Erstellen von DMPs für eigene Projekte anwenden.	MK	3
+72	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können die Relevanz und die Bestandteile eines DMP aufzeigen und vermitteln.	SK	3
+73	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können die Relevanz und die Bestandteile eines DMP aufzeigen und vermitteln.	MK	3
+74	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können die Relevanz und die Bestandteile eines DMP aufzeigen und vermitteln.	SoK	3
+75	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können die Erwartungen der verschiedenen Förderinstitutionen und deren Förderziele im Hinblick auf DMPs aufzeigen und vermitteln.	SK	3
+76	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können die Erwartungen der verschiedenen Förderinstitutionen und deren Förderziele im Hinblick auf DMPs aufzeigen und vermitteln.	MK	3
+77	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können die Erwartungen der verschiedenen Förderinstitutionen und deren Förderziele im Hinblick auf DMPs aufzeigen und vermitteln.	SoK	3
+78	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können beschreiben, nach welchen Kriterien Förderanträge begutachtet werden.	SK	2
+79	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können über Werkzeuge zum Erstellen von DMPs informieren und deren Anwendung vermitteln.	SK	3
+80	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können über Werkzeuge zum Erstellen von DMPs informieren und deren Anwendung vermitteln.	MK	3
+81	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können über Werkzeuge zum Erstellen von DMPs informieren und deren Anwendung vermitteln.	SoK	3
+82	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können eigenständig DMP-Vorlagen erstellen.	SK	5
+83	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können eigenständig DMP-Vorlagen erstellen.	MK	6
+84	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können einen (projektspezifischen) DPM erstellen.	SK	3
+85	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können einen (projektspezifischen) DPM erstellen.	MK	6
+86	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können bzgl. der Erstellung von (projektspezifischen) DMPs beraten.	SK	5
+87	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können bzgl. der Erstellung von (projektspezifischen) DMPs beraten.	MK	4
+88	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können bzgl. der Erstellung von (projektspezifischen) DMPs beraten.	SoK	3
+89	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können Best-Practice-Beispiele für die Verwendung von DMPs aus Sicht von Forscher*innen aufzeigen.	SK	3
+90	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können die nationalen und internationalen Perspektiven in Bezug auf DMPs beschreiben.	SK	3
+91	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können relevante (nationale und internationale) Arbeitsgruppen zu DPMs benennen.	SK	2
+92	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können unterschiedliche Formen des Projektmanagements und die Kombination mit dem DMP benennen.	SK	3
+93	Grundlagen und übergreifende Konzepte	Datenmanagementpläne	Data Stewards	Lernende können unterschiedliche Formen des Projektmanagements und die Kombination mit dem DMP benennen.	MK	3
+94	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Bachelor	Lernende können die FAIR-Prinzipien benennen.	SK	1
+95	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Bachelor	Lernende können die einzelnen Aspekte von FAIR beschreiben.	SK	1
+96	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Master	Lernende können Vor- und Nachteile von FAIRen Daten diskutieren.	SK	2
+97	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Master	Lernende können Vor- und Nachteile von FAIRen Daten diskutieren.	MK	3
+98	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Master	Lernende können Vor- und Nachteile von FAIRen Daten diskutieren.	SoK	3
+99	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Master	Lernende können FAIRness von Daten einschätzen.	SK	3
+100	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Master	Lernende können FAIRness von Daten einschätzen.	MK	2
+101	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	PhD	Lernende können die FAIRness von Daten kritisch beurteilen.	SK	3
+102	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	PhD	Lernende können eigenständig Schritte unternehmen, eigene Daten zu FAIRifizieren.	MK	5
+103	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Data Stewards	Lernende können die FAIR-Prinzipien beschreiben und an andere vermitteln.	SK	2
+104	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Data Stewards	Lernende können die FAIR-Prinzipien beschreiben und an andere vermitteln.	MK	3
+105	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Data Stewards	Lernende können die FAIR-Prinzipien beschreiben und an andere vermitteln.	SoK	3
+106	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Data Stewards	Lernende können Vor- und Nachteile sowie Schwierigkeiten bei der FAIRifizierung von Daten aufzeigen und vermitteln.	SK	4
+107	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Data Stewards	Lernende können Vor- und Nachteile sowie Schwierigkeiten bei der FAIRifizierung von Daten aufzeigen und vermitteln.	MK	3
+108	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Data Stewards	Lernende können Vor- und Nachteile sowie Schwierigkeiten bei der FAIRifizierung von Daten aufzeigen und vermitteln.	SoK	3
+109	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Data Stewards	Lernende können bzgl. der FAIRifizierung von Daten Orientierung geben und projektspezifisch beraten	SK	5
+110	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Data Stewards	Lernende können bzgl. der FAIRifizierung von Daten Orientierung geben und projektspezifisch beraten	MK	5
+111	Grundlagen und übergreifende Konzepte	FAIR-Prinzipien	Data Stewards	Lernende können bzgl. der FAIRifizierung von Daten Orientierung geben und projektspezifisch beraten	SoK	3
+112	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Bachelor	"Lernende können das Konzept ""Open Science"" erläutern."	SK	1
+113	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Bachelor	Lernende können die Begriffe Open Access, Open Data, Open Source als Bereiche bzw. Praktiken der Open Science beschreiben.	SK	1
+114	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Bachelor	Lernende können die Vor- und Nachteile von Open Science und zugehöriger Praktiken benennen.	SK	2
+115	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Master	"Lernende können zwischen den Konzepten ""FAIR"" und ""Open"" differenzieren."	SK	3
+116	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Master	Lernende können beurteilen, ob eine Veröffentlichung frei zugänglich ist.	SK	4
+117	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Master	Lernende können eigenständig Plattformen für offene Daten finden.	MK	4
+118	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Master	Lernende können beschreiben, was erforderlich ist, um Forschungsdaten offen zugänglich zu machen.	SK	3
+119	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	PhD	Lernende können beschreiben, was die Öffnung des Forschungskreislaufs im Sinne von Open Science bedeutet.	SK	2
+120	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	PhD	Lernende können beschreiben, wo Herausforderungen bei der Öffnung des Forschungskreislaufs im Sinne von Open Science liegen.	SK	2
+121	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	PhD	Lernende können erläutern, welche Open Science-Praktiken für einzelne Schritte in einem beispielhaften Forschungskreislauf anwendbar sind.	SK	3
+122	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	PhD	Lernende können den Grad der Offenheit von Daten mithilfe des 5-Sterne-Modells beurteilen.	SK	5
+123	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Data Stewards	Lernende können beschreiben, was die Öffnung des Forschungskreislaufs im Sinne von Open Science im Einzelnen (in einzelnen Etappen des Forschungskreislaufs) bedeutet.	SK	2
+124	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Data Stewards	Lernende können zu Open Science-Praktiken Orientierung geben und projektspezifisch beraten.	SK	5
+125	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Data Stewards	Lernende können zu Open Science-Praktiken Orientierung geben und projektspezifisch beraten.	MK	3
+126	Grundlagen und übergreifende Konzepte	Open X (Open Data, Open Source, Open Science, etc.)	Data Stewards	Lernende können zu Open Science-Praktiken Orientierung geben und projektspezifisch beraten.	SoK	3
+127	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können beschreiben, was eine Dateibenennungskonvention ist.	SK	1
+128	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können die Relevanz strukturierter Dateibenennung beschreiben.	SK	2
+129	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können Kriterien für eine gute Benennungskonvention nennen.	SK	2
+130	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können unter Anleitung Benennungskonventionen entwickeln und auf eigene (und kollaborativ) genutzte Forschungsdaten anwenden.	MK	3
+131	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können die allgemeinen Merkmale einer effizienten Ordnerstruktur beschreiben.	SK	1
+132	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können den Nutzen einer klaren, nachvollziehbaren Ordnerstruktur erläutern.	SK	1
+133	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können unter Anleitung eine Ordnerstruktur für eigene und kollaborative Forschungsdaten entwerfen.	MK	3
+134	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können unter Anleitung Ordnerstrukturen und Benennungskonventionen dokumentieren.	SK	3
+135	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können unter Anleitung Ordnerstrukturen und Benennungskonventionen dokumentieren.	MK	2
+136	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können den Zweck und Nutzen von Versionierung beschreiben.	SK	1
+137	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können einfache Versionierungsmethoden für Forschungsdaten benennen.	SK	3
+138	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können unterstützende Werkzeuge (Umbenennungswerkzeuge) benennen.	SK	2
+139	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Bachelor	Lernende können erläutern, warum Rohdaten separat gespeichert werden sollten.	SK	2
+140	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Master	Lernende können eigenständig Benennungskonventionen entwickeln und auf eigene (und kollaborativ) genutzte Forschungsdaten anwenden.	MK	4
+141	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Master	Lernende können Dateibenennungen und Dateibenennungskonventionen kritisch bewerten.	SK	3
+142	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Master	Lernende können eigenständig eine Ordnerstruktur für eigene und kollaborative Forschungsdaten entwerfen und auf eigene (und kollaborativ) genutzte Forschungsdaten anwenden.	SK	3
+143	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Master	Lernende können eigenständig eine Ordnerstruktur für eigene und kollaborative Forschungsdaten entwerfen und auf eigene (und kollaborativ) genutzte Forschungsdaten anwenden.	MK	4
+144	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Master	Lernende können verschiedene Ordnerstrukturen für Dateien kritisch bewerten.	SK	3
+145	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Master	Lernende können eigenständig Ordnerstrukturen und Benennungskonventionen dokumentieren.	MK	3
+146	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Master	Lernende können Methoden und Werkzeuge für die Versionskontrolle benennen.	SK	1
+147	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Master	Lernende können einfache Versionierungsmethoden auf eigene Forschungsdatendaten anwenden.	MK	3
+148	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Master	Lernende können unterstützende Werkzeuge (Umbenennungswerkzeuge) auf eigene Dateien anwenden.	SK	2
+149	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	PhD	Lernende können eigenständig Ordnerstrukturen aufbauen, Benennungskonventionen entwickeln und diese in angemessener Form dokumentieren.	SK	4
+150	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	PhD	Lernende können eigenständig Ordnerstrukturen aufbauen, Benennungskonventionen entwickeln und diese in angemessener Form dokumentieren.	MK	4
+151	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	PhD	Lernende können einfache und komplexe Versionierungsmethoden auf eigene Forschungsdaten anwenden.	MK	3
+152	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	PhD	Lernende können Versionierungswerkzeuge für individuelle Arbeitsprozesse einsetzen.	MK	3
+153	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	PhD	Lernende können Versionierungswerkzeuge für die kollaborative Zusammenarbeit und Automatisierung gemeinsamer Arbeitsprozesse einsetzen.	MK	3
+154	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	PhD	Lernende können Versionierungswerkzeuge für die kollaborative Zusammenarbeit und Automatisierung gemeinsamer Arbeitsprozesse einsetzen.	SoK	3
+155	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können den Nutzen von systematischen, klaren Dateibenennungen und Ablagestrukturen aufzeigen und an Dritte vermitteln.	SK	1
+156	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können den Nutzen von systematischen, klaren Dateibenennungen und Ablagestrukturen aufzeigen und an Dritte vermitteln.	MK	2
+157	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können den Nutzen von systematischen, klaren Dateibenennungen und Ablagestrukturen aufzeigen und an Dritte vermitteln.	SoK	3
+158	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Konzepte und unterstützende Werkzeuge zum Aufbau von effizienten Ordnerstrukturen aufzeigen und vermitteln.	SK	2
+159	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Konzepte und unterstützende Werkzeuge zum Aufbau von effizienten Ordnerstrukturen aufzeigen und vermitteln.	MK	3
+160	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Konzepte und unterstützende Werkzeuge zum Aufbau von effizienten Ordnerstrukturen aufzeigen und vermitteln.	SoK	3
+161	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Konzepte und unterstützende Werkzeuge zur systematischen Dateibenennung aufzeigen und vermitteln.	MK	3
+162	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Konzepte und unterstützende Werkzeuge zur systematischen Dateibenennung aufzeigen und vermitteln.	SoK	3
+163	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können verschiedene Konzepte zum Anlegen von Ordnerstrukturen bewerten und Dritte bzgl. des Aufbaus von Ordnerstrukturen beratend unterstützen.	SK	4
+164	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können verschiedene Konzepte zum Anlegen von Ordnerstrukturen bewerten und Dritte bzgl. des Aufbaus von Ordnerstrukturen beratend unterstützen.	SoK	3
+165	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können verschiedene Konzepte zum Anlegen von Benennungskonventionen bewerten und Dritte bzgl. der Entwicklung von Benennungskonventionen beratend unterstützen.	SK	4
+166	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können verschiedene Konzepte zum Anlegen von Benennungskonventionen bewerten und Dritte bzgl. der Entwicklung von Benennungskonventionen beratend unterstützen.	SoK	3
+167	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können allgemeine Konzepte der Versionierung beschreiben und an Dritte vermitteln.	SK	2
+168	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können allgemeine Konzepte der Versionierung beschreiben und an Dritte vermitteln.	SoK	3
+169	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können einfache und komplexe Versionierungs-methoden an Dritte vermitteln und hierzu beraten.	SK	2
+170	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können einfache und komplexe Versionierungs-methoden an Dritte vermitteln und hierzu beraten.	MK	3
+171	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können einfache und komplexe Versionierungs-methoden an Dritte vermitteln und hierzu beraten.	SoK	3
+172	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Dritte bzgl. der Nutzung von Versionierungswerkzeuge anleiten und beraten.	SK	2
+173	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Dritte bzgl. der Nutzung von Versionierungswerkzeuge anleiten und beraten.	MK	3
+174	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Dritte bzgl. der Nutzung von Versionierungswerkzeuge anleiten und beraten.	SoK	3
+175	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Dokumentationsformen aufzeigen, vermitteln und entsprechend beraten.	SK	3
+176	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Dokumentationsformen aufzeigen, vermitteln und entsprechend beraten.	MK	3
+177	Arbeiten mit Daten	Ordnung und Struktur, Versionierung	Data Stewards	Lernende können Dokumentationsformen aufzeigen, vermitteln und entsprechend beraten.	SoK	3
+178	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Bachelor	Lernende können die Unterschiede zwischen den Begriffen: Datentypen und Datenformaten/Dateiformaten und Dateityp beschreiben.	SK	1
+179	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Bachelor	Lernende können einfache Datentypen nennen.	SK	1
+180	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Bachelor	Lernende können verschiedene Dateiformate identifizieren und Dateitypen zuordnen.	SK	3
+181	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Bachelor	Lernende können den Unterschied zwischen quantitativen und qualitativen Daten beschreiben.	SK	2
+182	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Master	Lernende können beschreiben, was ein Datenstandard ist.	SK	2
+183	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Master	Lernende können geeignete Dateiformate für die Archivierung und Nachnutzung nennen.	SK	2
+184	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Master	Lernende können die Vor- und Nachteile verschiedener Dateiformate (im Hinblick auch Interoperabilität und Nachnutzung) gegenüberstellen.	SK	4
+185	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Master	Lernende können unter Anleitung geeignete Formate für Archivierung und Nachnutzung auswählen.	MK	3
+186	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Master	Lernende können eigene Daten unter Anleitung in nachnutzbaren Formaten anlegen oder in entsprechende Formate überführen.	MK	3
+187	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Master	Lernende können sich mit Fragen zur Nachhaltigkeit von Dateiformaten kritisch auseinandersetzen.	SK	4
+188	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Master	Lernende können unter Anleitung Werkzeuge zur Dateiformaterkennung und -validierung nutzen.	MK	3
+189	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Master	Lernende können unter Anleitung angemessene Verfahrensweisen für quantitative und qualitative Daten zuordnen.	SK	3
+190	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Master	Lernende können unter Anleitung angemessene Verfahrensweisen für quantitative und qualitative Daten zuordnen.	MK	3
+191	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	PhD	Lernende können die Besonderheiten von verschiedenen Daten- und Dateitypen, auch hinsichtlich ihrer Prozessierung,beschreiben.	SK	2
+192	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	PhD	Lernende können eigenständig geeignete Formate für Archivierung und Nachnutzung auswählen.	MK	4
+193	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	PhD	Lernende können eigene Daten eigenständig in nachnutzbaren Formaten anlegen oder in entsprechende Formate überführen.	MK	4
+194	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	PhD	Lernende können Werkzeuge zur Dateiformaterkennung und -validierung eigenständig nutzen.	MK	4
+195	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	PhD	Lernende können unter Anleitung angemessene Verfahrensweisen für quantitative und qualitative Daten zuordnen.	SK	3
+196	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	PhD	Lernende können unter Anleitung angemessene Verfahrensweisen für quantitative und qualitative Daten zuordnen.	MK	3
+197	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	PhD	Lernende können eigenständig angemessene Verfahrensweisen für quantitative und qualitative Daten auswählen.	SK	4
+198	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	PhD	Lernende können eigenständig angemessene Verfahrensweisen für quantitative und qualitative Daten auswählen.	MK	4
+199	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können anhand von Beispielen erklären, was Daten sind.	SK	2
+200	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können die Unterschiede zwischen Datentypen, Dateiformaten und -typen vermitteln.	SK	2
+201	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können die Unterschiede zwischen Datentypen, Dateiformaten und -typen vermitteln.	SoK	3
+202	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können die Unterschiede zwischen Daten, Informationen und Wissen darstellen.	SK	4
+203	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können vermitteln, warum bestimmte Dateiformate im Hinblick auf Nachnutzbarkeit und Interoperabilität von Forschungsdaten besser oder schlechter geeignet sind.	SK	3
+204	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können vermitteln, warum bestimmte Dateiformate im Hinblick auf Nachnutzbarkeit und Interoperabilität von Forschungsdaten besser oder schlechter geeignet sind.	SoK	3
+205	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können bezüglich der Auswahl sinnvoller Dateiformate beraten.	SK	3
+206	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können bezüglich der Auswahl sinnvoller Dateiformate beraten.	MK	3
+207	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können bezüglich der Auswahl sinnvoller Dateiformate beraten.	SoK	3
+208	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können vermitteln was Datenintegration ist.	SK	2
+209	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können vermitteln was Datenintegration ist.	SoK	3
+210	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können Wege für automatisches Einlesen von Daten in verschiedene Formate beschreiben.	SK	2
+211	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können den Nutzen/die Funktion von Datenstandards erläutern.	SK	2
+212	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können Schwierigkeiten bei der Etablierung von Standards für Daten darlegen.	SK	4
+213	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können zu grundlegenden Anfragen zu geeigneten Dateiformaten, vorhandenen Datenstandards und angemessenen Verfahrensweisen mit verschiedenen Daten Orientierung geben bzw. ggf. an ausgewiesenes Personal weiterleiten.	SK	5
+214	Arbeiten mit Daten	Daten, Datentypen, Datenformate 	Data Stewards	Lernende können zu grundlegenden Anfragen zu geeigneten Dateiformaten, vorhandenen Datenstandards und angemessenen Verfahrensweisen mit verschiedenen Daten Orientierung geben bzw. ggf. an ausgewiesenes Personal weiterleiten.	MK	5
+215	Arbeiten mit Daten	Datenspeicherung und Backup	Bachelor	Lernende können verschiedene Speichersysteme benennen.	SK	1
+216	Arbeiten mit Daten	Datenspeicherung und Backup	Bachelor	Lernende können erklären, was ein Backup ist.	SK	2
+217	Arbeiten mit Daten	Datenspeicherung und Backup	Bachelor	Lernende können darstellen, warum man Backups nutzen sollte.	SK	2
+218	Arbeiten mit Daten	Datenspeicherung und Backup	Bachelor	Lernende können die 3-2-1-Regel in eigenen Worten wiedergeben.	SK	2
+219	Arbeiten mit Daten	Datenspeicherung und Backup	Master	Lernende können beschreiben, für welche Anforderungen und Anwendungsszenarien welche Speichersysteme geeignet sind.	SK	3
+220	Arbeiten mit Daten	Datenspeicherung und Backup	Master	Lernende können den Nutzen und die Risiken verschiedener Speichersysteme und unterschiedlicher Speicherorganisation aufzählen.	SK	1
+221	Arbeiten mit Daten	Datenspeicherung und Backup	Master	Lernende können unter Anleitung eine eigene Backup-Strategie entwickeln und anwenden.	MK	3
+222	Arbeiten mit Daten	Datenspeicherung und Backup	Master	Lernende können die 3-2-1-Regel auf ihre eigenen Daten anwenden.	SK	3
+223	Arbeiten mit Daten	Datenspeicherung und Backup	Master	Lernende können verschiedene institutionelle Backup-Lösungen auflisten.	SK	1
+224	Arbeiten mit Daten	Datenspeicherung und Backup	PhD	Lernende können können bei gegebenen Anforderungen ein geeignetes Speichersystem auswählen	SK	3
+225	Arbeiten mit Daten	Datenspeicherung und Backup	PhD	Lernende können eine eigene Backup-Strategie entwickeln und anwenden.	MK	3
+226	Arbeiten mit Daten	Datenspeicherung und Backup	PhD	Lernende können andere Forschende dabei unterstützen, ein bestehendes Speichersystem und eine bestehende Backup-Strategie zu nutzen.	MK	3
+227	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können zu Strategien für ein sicheres Backup schulen und beraten.	SK	3
+228	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können zu Strategien für ein sicheres Backup schulen und beraten.	MK	3
+229	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können zu Strategien für ein sicheres Backup schulen und beraten.	SoK	3
+230	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können die lokalen Backup-Dienste aufzeigen und Vor- und Nachteile einzelner Dienste gegenüberstellen.	SK	2
+231	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können die jeweils geeignetsten Speichersysteme für spezifische Anforderungen und Anwendungsszenarien auswählen.	SK	4
+232	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können die jeweils geeignetsten Speichersysteme für spezifische Anforderungen und Anwendungsszenarien auswählen.	MK	4
+233	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können die jeweiligen Vorteile und Risiken der verschiedenen Speichersysteme und unterschiedliche Speicherorganisation in einem spezifischen Kontext beurteilen.	SK	5
+234	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können die jeweiligen Vorteile und Risiken der verschiedenen Speichersysteme und unterschiedliche Speicherorganisation in einem spezifischen Kontext beurteilen.	MK	5
+235	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können Kriterien benennen, die verschiedene Speichersysteme als geeignet für verschiedene Anwendungen und Szenarien kennzeichnen.	SK	4
+236	Arbeiten mit Daten	Datenspeicherung und Backup	Data Stewards	Lernende können Vorteile und Risiken verschiedener Speichersysteme beurteilen.	SK	5
+237	Arbeiten mit Daten	Datensicherheit 	Bachelor	Lernende können allgemeine Anforderungen an Datenschutz und Zugangskontrolle nennen.	SK	1
+238	Arbeiten mit Daten	Datensicherheit 	Bachelor	Lernende können Beispiele für Richtlinien zu Zugangskontrollen nennen.	SK	1
+239	Arbeiten mit Daten	Datensicherheit 	Master	Lernende können den Inhalt von Richtlinien in Bezug auf Datenschutz beschreiben.	SK	1
+240	Arbeiten mit Daten	Datensicherheit 	Master	Lernende können den Inhalt von Richtlinien in Bezug auf Zugriffskontrolle beschreiben.	SK	1
+241	Arbeiten mit Daten	Datensicherheit 	Master	Lernende können die Verwendung von Richtlinien in Bezug auf Datenschutz erläutern.	SK	2
+242	Arbeiten mit Daten	Datensicherheit 	Master	Lernende können die Verwendung von Richtlinien in Bezug auf Zugriffskontrolle erläutern.	SK	2
+243	Arbeiten mit Daten	Datensicherheit 	Master	Lernende können darlegen, warum Datenschutz im Kontext des FDM notwendig ist.	SK	2
+244	Arbeiten mit Daten	Datensicherheit 	PhD	Lernende können den Inhalt von Richtlinien in Bezug auf Datenschutz und Zugriffskontrollen auf eigene Daten anwenden.	SK	3
+245	Arbeiten mit Daten	Datensicherheit 	PhD	Lernende können den Inhalt von Richtlinien in Bezug auf Datenschutz und Zugriffskontrollen auf eigene Daten anwenden.	MK	3
+246	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können beschreiben aufgrund welcher Aspekte, die Sicherheit von Daten ein wichtiger Bestandteil des FDM ist und diese Aspekte an andere vermitteln.	SK	2
+247	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können beschreiben aufgrund welcher Aspekte, die Sicherheit von Daten ein wichtiger Bestandteil des FDM ist und diese Aspekte an andere vermitteln.	MK	3
+248	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können beschreiben aufgrund welcher Aspekte, die Sicherheit von Daten ein wichtiger Bestandteil des FDM ist und diese Aspekte an andere vermitteln.	SoK	3
+249	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können beschreiben, warum die Verteilung und Aktualisierung von Zugriffsrechten wichtige Aspekte des FDM sind und dies an andere vermitteln.	SK	3
+250	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können beschreiben, warum die Verteilung und Aktualisierung von Zugriffsrechten wichtige Aspekte des FDM sind und dies an andere vermitteln.	MK	3
+251	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können beschreiben, warum die Verteilung und Aktualisierung von Zugriffsrechten wichtige Aspekte des FDM sind und dies an andere vermitteln.	SoK	3
+252	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können Methoden zur Erhöhung der Sicherheit von Forschungsdaten erläutern, anwenden und vermitteln.	SK	2
+253	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können Methoden zur Erhöhung der Sicherheit von Forschungsdaten erläutern, anwenden und vermitteln.	MK	2
+254	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können Methoden zur Erhöhung der Sicherheit von Forschungsdaten erläutern, anwenden und vermitteln.	SoK	3
+255	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können Methoden zur Einrichtung von Zugriffsrechten und deren Vergabekriterien erläutern und vermitteln.	SK	2
+256	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können Methoden zur Einrichtung von Zugriffsrechten und deren Vergabekriterien erläutern und vermitteln.	MK	2
+257	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können Anfragen zur Datensicherheit beantworten und anderen hierzu Orientierung geben.	SK	5
+258	Arbeiten mit Daten	Datensicherheit 	Data Stewards	Lernende können Anfragen zur Datensicherheit beantworten und anderen hierzu Orientierung geben.	MK	5
+259	Arbeiten mit Daten	Datenqualität	Bachelor	Lernende können Datenqualität und ihre Parameter definieren.	SK	1
+260	Arbeiten mit Daten	Datenqualität	Bachelor	Lernende können verschiedene Aspekte von Datenqualität (inhaltsbezogen, kontextbezogen, darstellungsbezogen und zugangsbezogen) erläutern.	SK	1
+261	Arbeiten mit Daten	Datenqualität	Bachelor	Lernende können Maßnahmen zur Qualitätsverbesserung von Daten aufzählen.	MK	1
+262	Arbeiten mit Daten	Datenqualität	Bachelor	Lernende können Strategien zur Fehlervermeidung beim Umgang mit Daten beschreiben.	SK	2
+263	Arbeiten mit Daten	Datenqualität	Bachelor	Lernende können Daten strukturiert in Tabellenform ablegen, so dass sie von Analysewerkzeugen gut verwertet werden können.	MK	3
+264	Arbeiten mit Daten	Datenqualität	Master	"Lernende können den Begriff ""Datenqualität"" bezogen auf ihre Daten erläutern."	MK	3
+265	Arbeiten mit Daten	Datenqualität	Master	Lernende können qualitative Mängel in eignen und fremden Daten identifizieren.	MK	4
+266	Arbeiten mit Daten	Datenqualität	Master	Lernende können identifizierte Qualitätsmängel in ihren Daten unter Anleitung korrigieren.	SK	3
+267	Arbeiten mit Daten	Datenqualität	Master	Lernende können identifizierte Qualitätsmängel in ihren Daten unter Anleitung korrigieren.	MK	3
+268	Arbeiten mit Daten	Datenqualität	Master	Lernende können Strategien zur Fehlervermeidung beim Umgang mit Daten beschreiben und anwenden.	SK	3
+269	Arbeiten mit Daten	Datenqualität	PhD	Lernende können identifizierte Qualitätsmängel in ihren Daten eigenständig korrigieren.	SK	3
+270	Arbeiten mit Daten	Datenqualität	PhD	Lernende können die Qualität von Daten bezogen auf ihren Verwendungszweck bewerten.	MK	5
+271	Arbeiten mit Daten	Datenqualität	PhD	Lernende können Daten entsprechend den Standards guter Datenqualität erzeugen.	MK	6
+272	Arbeiten mit Daten	Datenqualität	Data Stewards	Lernende können Maßnahmen zur Qualitätsverbesserung von Daten erläutern und vermitteln.	SK	3
+273	Arbeiten mit Daten	Datenqualität	Data Stewards	Lernende können Maßnahmen zur Qualitätsverbesserung von Daten erläutern und vermitteln.	MK	2
+274	Arbeiten mit Daten	Datenqualität	Data Stewards	Lernende können Maßnahmen zur Qualitätsverbesserung von Daten erläutern und vermitteln.	SoK	3
+275	Arbeiten mit Daten	Datenqualität	Data Stewards	Lernende können die Qualität von Daten bewerten.	SK	5
+276	Arbeiten mit Daten	Datenqualität	Data Stewards	Lernende können Strategien und Prozesse zur Qualitätsverbesserung von Daten entwickeln und hierzu beraten.	MK	6
+277	Arbeiten mit Daten	Tools	Bachelor	Lernende können verschiedene hilfreiche Tools zum Datenmanagement (in verschiedenen Forschungsphasen) benennen.	SK	1
+278	Arbeiten mit Daten	Tools	Bachelor	Lernende können ihren individuellen Ansprüchen und Aufgaben entsprechende Tools recherchieren.	SK	1
+279	Arbeiten mit Daten	Tools	Master	Lernende können ... verschiedene hilfreiche Tools zum Datenmanagement unter Anleitung (in verschiedenen Forschungsphasen) anwenden.	MK	3
+280	Arbeiten mit Daten	Tools	PhD	Lernende können sich bewusst und begründet für oder gegen Tools entscheiden.	SK	3
+281	Arbeiten mit Daten	Tools	PhD	Lernende können eigenständig verschiedene hilfreiche Tools zum Datenmanagement (in verschiedenen Forschungsphasen) anwenden.	MK	3
+282	Arbeiten mit Daten	Tools	PhD	Lernende können unter Zuhilfenahme der Grundfunktionen des Versionierungssystem Git (GitHub oder GitLab) Projekte unter Anleitung anlegen, kollaborativ betreiben.		
+283	Arbeiten mit Daten	Tools	Data Stewards	Lernende können zu verschiedene hilfreichen Tools zum Datenmanagement (in verschiedenen Forschungsphasen) beraten und schulen.	SK	3
+284	Arbeiten mit Daten	Tools	Data Stewards	Lernende können zu verschiedene hilfreichen Tools zum Datenmanagement (in verschiedenen Forschungsphasen) beraten und schulen.	SoK	3
+285	Arbeiten mit Daten	Tools	Data Stewards	Lernende können projektspezifisch und zu individuellen Ansprüchen und Aufgaben bezüglich passender Tools Orientierung bieten.	SK	3
+286	Arbeiten mit Daten	Tools	Data Stewards	Lernende können projektspezifisch und zu individuellen Ansprüchen und Aufgaben bezüglich passender Tools Orientierung bieten.	Mk	3
+287	Arbeiten mit Daten	Tools	Data Stewards	Lernende können projektspezifisch und zu individuellen Ansprüchen und Aufgaben bezüglich passender Tools Orientierung bieten.	SoK	3
+288	Arbeiten mit Daten	Tools	Data Stewards	Lernende können unter Zuhilfenahme der Grundfunktionen des Versionierungssystem Git (GitHub oder GitLab) Projekte anlegen, kollaborativ betreiben, abschließen und andere hierzu beraten.	MK	6
+289	Arbeiten mit Daten	(Forschungs-)Software & Coding	Bachelor	Lernende können geeignete Software für die Auswertung von Daten benennen.	SK	1
+290	Arbeiten mit Daten	(Forschungs-)Software & Coding	Bachelor	Lernende können unter Zuhilfenahme geeigneter Software aus vorliegenden Daten grundlegende Kennwerte berechnen.	MK	3
+291	Arbeiten mit Daten	(Forschungs-)Software & Coding	Bachelor	Lernende können unter Zuhilfenahme geeigneter Software vorliegende Daten grafisch darstellen.	MK	3
+292	Arbeiten mit Daten	(Forschungs-)Software & Coding	Master	Lernende können unter Zuhilfenahme geeigneter Software (selbst erhobene) Daten analysieren.	MK	4
+293	Arbeiten mit Daten	(Forschungs-)Software & Coding	Master	Lernende können unter Zuhilfenahme geeigneter Software (selbst erhobene) Daten grafisch auswerten.	MK	4
+294	Arbeiten mit Daten	(Forschungs-)Software & Coding	PhD	Lernende können mit geeigneter Software nachhaltig und effizient mit Daten umgehen	MK	3
+295	Arbeiten mit Daten	(Forschungs-)Software & Coding	PhD	Lernende können in einer Programmiersprache unter Zuhilfenahme der grundlegenden Programmierstrukturen (Eingabe, Ausgabe, Berechnungen, Schleife, Verzweigung, Unterprogramme mit Schnittstelle) eigene Auswertungsprogramme entwickeln.	MK	6
+296	Arbeiten mit Daten	(Forschungs-)Software & Coding	PhD	Lernende können die wesentlichen Grundlagen zum Aufbau und Nutzung von Datenbanksystemen wiedergeben und anwenden.	SK	3
+297	Arbeiten mit Daten	(Forschungs-)Software & Coding	PhD	Lernende können die wesentlichen Grundlagen zum Aufbau und Nutzung von Datenbanksystemen wiedergeben und anwenden.	MK	4
+298	Arbeiten mit Daten	(Forschungs-)Software & Coding	Data Stewards	Lernende können mit Forschungssoftware (z. B. Datenauswertungsprogrammen, Versionierungssoftware, Archivierungssoftware) nachhaltig umgehen.	MK	3
+299	Arbeiten mit Daten	(Forschungs-)Software & Coding	Data Stewards	Lernende können mit Daten effizient umgehen und Konzepte für Automatisierung und Reproduzierbarkeit erstellen.	MK	6
+300	Arbeiten mit Daten	(Forschungs-)Software & Coding	Data Stewards	Lernende können Forschende geeignete Forschungssoftware empfehlen bzw. zu weiterführenden Anliegen auf entsprechende Kontaktstellen verweisen.	SoK	5
+301	Arbeiten mit Daten	(Forschungs-)Software & Coding	Data Stewards	Lernende können Forschende bei der Entwicklung von nachhaltigen Konzepten für die (Nach-)Nutzung von Forschungssoftware sowie den Daten und Ergebnissen beraten.	SoK	6
+302	Arbeiten mit Daten	(Forschungs-)Software & Coding	Data Stewards	Lernende können Grundlagen der Betriebssysteme sowie Grundlagen der Programmierung vermitteln.	MK	6
+303	Dokumentation und Metadaten	Datendokumentation	Bachelor	Lernende können beschreiben, was eine Datendokumentation ist.	SK	1
+304	Dokumentation und Metadaten	Datendokumentation	Bachelor	Lernende können erläutern, welche Funktionen eine Datendokumentation erfüllt.	SK	2
+305	Dokumentation und Metadaten	Datendokumentation	Bachelor	Lernende können Komponenten/Inhalte einer Datendokumentation beschreiben.	SK	1
+306	Dokumentation und Metadaten	Datendokumentation	Bachelor	Lernende können angeleitet einfache Datendokumentationen für eigene Forschungsdaten formulieren.	MK	3
+307	Dokumentation und Metadaten	Datendokumentation	Bachelor	Lernende können verschiedene Werkzeuge und Methoden zur Dokumentation benennen.	SK	1
+308	Dokumentation und Metadaten	Datendokumentation	Master	Lernende können nachvollziehbare Argumente und Kriterien für eine nachhaltige Datendokumentation benennen.	SK	2
+309	Dokumentation und Metadaten	Datendokumentation	Master	Lernende können anhand von Beispielen Vor- und Nachteile verschiedener Dokumentationsformen beschreiben.	SK	5
+310	Dokumentation und Metadaten	Datendokumentation	Master	Lernende können eigenständig einfache Datendokumentationen erstellen.	MK	3
+311	Dokumentation und Metadaten	Datendokumentation	PhD	Lernende können eigenständig eine komplexe Datendokumentation erstellen.	MK	3
+312	Dokumentation und Metadaten	Datendokumentation	PhD	Lernende können eine Datendokumentation für ihre eigenen Forschungsdaten erstellen.	MK	6
+313	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können Inhalte und Bedeutung einer Datendokumentation vermitteln.	SK	3
+314	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können Inhalte und Bedeutung einer Datendokumentation vermitteln.	MK	3
+315	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können Inhalte und Bedeutung einer Datendokumentation vermitteln.	SoK	3
+316	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können vermitteln, wieso die Datendokumentation wichtig für die Nachnutzung von Daten ist.	SK	2
+317	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können vermitteln, wieso die Datendokumentation wichtig für die Nachnutzung von Daten ist.	SoK	3
+318	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können einen nachvollziehbaren Workflow für Datendokumentationen erarbeiten und vermitteln.	SK	4
+319	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können einen nachvollziehbaren Workflow für Datendokumentationen erarbeiten und vermitteln.	MK	5
+320	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können einen nachvollziehbaren Workflow für Datendokumentationen erarbeiten und vermitteln.	SoK	3
+321	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können verschiedene Werkzeuge und Methoden zur Datendokumentation benennen und deren Nutzung anleiten.	SK	3
+322	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können verschiedene Werkzeuge und Methoden zur Datendokumentation benennen und deren Nutzung anleiten.	MK	3
+323	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können verschiedene Werkzeuge und Methoden zur Datendokumentation benennen und deren Nutzung anleiten.	SoK	3
+324	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können Dritte bzgl. ihrer Datendokumentationen beratend unterstützen.	SK	4
+325	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können Dritte bzgl. ihrer Datendokumentationen beratend unterstützen.	MK	3
+326	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können Vorlagen für Datendokumentationen entwickeln.	SK	5
+327	Dokumentation und Metadaten	Datendokumentation	Data Stewards	Lernende können Vorlagen für Datendokumentationen entwickeln.	MK	5
+328	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Bachelor	Lernende können die Begriffe Metadaten, Normdaten und kontrolliertes Vokabular erläutern.	SK	1
+329	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Bachelor	Lernende können den Nutzen der Verwendung von Metadaten beschreiben.	SK	2
+330	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Bachelor	Lernende können erläutern, was ein Metadatenstandard ist.	SK	1
+331	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Bachelor	Lernende können erläutern, welche Funktionen Metadaten (insb. für die Nachnutzung von Daten) haben.	SK	1
+332	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Master	Lernende können verschiedene Metadatenstandards benennen.	SK	1
+333	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Master	Lernende können unter Anleitung Metadatenstandards finden.	MK	2
+334	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Master	Lernende können ihre Daten auf Basis vorgegebener, einfacher Standards mit Metadaten beschreiben.	MK	3
+335	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Master	Lernende können Metadaten auslesen.	MK	3
+336	Dokumentation und Metadaten	Metadaten und Metadatenstandards	PhD	Lernende können eigenständig nach Metadatenstandards recherchieren.	MK	3
+337	Dokumentation und Metadaten	Metadaten und Metadatenstandards	PhD	Lernende können eigenständig passende (disziplinspezifische) Metadatenstandards auswählen.	MK	3
+338	Dokumentation und Metadaten	Metadaten und Metadatenstandards	PhD	Lernende können ihre Daten eigenständig auf Basis vorhandener Standards beschreiben.	MK	3
+339	Dokumentation und Metadaten	Metadaten und Metadatenstandards	PhD	Lernende können verschiedene Metadatenformate benennen und beschreiben.	SK	5
+340	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können die Begriffe Metadaten, Normdaten und kontrolliertes Vokabular erläutern.	SK	1
+341	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können vermitteln, welche verschiedenen Metadatenstandards existieren.	SK	2
+342	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können vermitteln, welche verschiedenen Metadatenstandards existieren.	MK	2
+343	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können vermitteln, welche verschiedenen Metadatenstandards existieren.	SoK	3
+344	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können vermitteln, wofür Metadatenstandards verwendet werden.	SK	3
+345	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können vermitteln, wie und wo passende (disziplinspezifische) Metadatenstandards gefunden werden.	SoK	3
+346	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können gängige Metadatenvokabulare anwenden.	MK	3
+347	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können maßgebliche Initiativen und Projekte zum Thema benennen.	SK	1
+348	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können bzgl. der Auswahl von Metadatenstandards projektspezifisch beratend unterstützen.	SK	4
+349	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können bzgl. der Auswahl von Metadatenstandards projektspezifisch beratend unterstützen.	MK	4
+350	Dokumentation und Metadaten	Metadaten und Metadatenstandards	Data Stewards	Lernende können bzgl. der Auswahl von Metadatenstandards projektspezifisch beratend unterstützen.	SoK	3
+351	Dokumentation und Metadaten	Persistente Identifikatoren	Bachelor	Lernende können beschreiben, was ein PID ist.	SK	1
+352	Dokumentation und Metadaten	Persistente Identifikatoren	Master	Lernende können den allgemeinen Aufbau eines PID beschreiben.	SK	2
+353	Dokumentation und Metadaten	Persistente Identifikatoren	PhD	Lernende können PIDs zu Recherche- und zu Referenzierungszwecken nutzen.	MK	3
+354	Dokumentation und Metadaten	Persistente Identifikatoren	Data Stewards	Lernende können die Funktionen von PIDs vermitteln.	SK	2
+355	Dokumentation und Metadaten	Persistente Identifikatoren	Data Stewards	Lernende können die Funktionen von PIDs vermitteln.	SoK	3
+356	Dokumentation und Metadaten	Definition persistente Identifikatoren (PID); Vor- und Nachteile von PIDs; Funktionen von PIDs; nähere Beschreibung ausgewählter PIDs; Aufbau von PIDs	Bachelor	Lernende können Beispiele für verschiedene PIDs benennen.	SK	1
+357	Dokumentation und Metadaten	Definition persistente Identifikatoren (PID); Vor- und Nachteile von PIDs; Funktionen von PIDs; nähere Beschreibung ausgewählter PIDs; Aufbau von PIDs	Master	Lernende können PIDs für die die Recherche nutzen.	MK	2
+358	Dokumentation und Metadaten	Definition persistente Identifikatoren (PID); Vor- und Nachteile von PIDs; Funktionen von PIDs; nähere Beschreibung ausgewählter PIDs; Aufbau von PIDs	PhD	Lernende können PIDs für kollaboratives Arbeiten nutzen.	MK	3
+359	Dokumentation und Metadaten	Definition persistente Identifikatoren (PID); Vor- und Nachteile von PIDs; Funktionen von PIDs; nähere Beschreibung ausgewählter PIDs; Aufbau von PIDs	PhD	Lernende können den Nutzen von PIDs kritisch diskutieren.	SK	3
+360	Dokumentation und Metadaten	Definition persistente Identifikatoren (PID); Vor- und Nachteile von PIDs; Funktionen von PIDs; nähere Beschreibung ausgewählter PIDs; Aufbau von PIDs	PhD	Lernende können den Nutzen von PIDs kritisch diskutieren.	SoK	3
+361	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	Bachelor	Lernende können die Rolle von Ontologien und Vokabularen erklären.	SK	1
+362	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	Master	Lernende können die Verwendung von Ontologien und Vokabularen als solche einordnen.	SK	3
+363	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	Master	Lernende können domänenrelevante Ontologien als solche einordnen.	SK	3
+364	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	PhD	Lernende können Ontologien zur Beschreibung von Ressourcen exemplarisch anwenden.	MK	3
+365	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	Data Stewards	Lernende können die Verwendung von Ontologien allgemein beschreiben.	SK	2
+366	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	Data Stewards	Lernende können den Nutzen von Ontologien beschreiben und vermitteln.	SK	2
+367	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	Data Stewards	Lernende können den Nutzen von Ontologien beschreiben und vermitteln.	SoK	3
+368	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	Data Stewards	Lernende können Ontologien entwickeln.	MK	6
+369	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	Data Stewards	Lernende können bzgl. der Entwicklung von Ontologien projektspezifisch beratend unterstützen.	SK	4
+370	Dokumentation und Metadaten	Ontologien und kontrollierte Vokabulare	Data Stewards	Lernende können bzgl. der Entwicklung von Ontologien projektspezifisch beratend unterstützen.	MK	4
+371	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Bachelor	Lernende können Kriterien nennen, nach denen Forschungsdaten für eine LZA ausgewählt werden sollten.	SK	1
+372	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Bachelor	Lernende können sich mit Fragen zur Nachhaltigkeit von Forschungsdaten kritisch auseinandersetzen.	SK	2
+373	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Master	Lernende können besondere Vorkehrungen beschreiben, die getroffen werden müssen, damit Daten für längere Zeit verfügbar und nachnutzbar sein können.	SK	2
+374	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Master	Lernende können besondere Anforderungen für eine LZA von Forschungsdaten beschreiben.	SK	1
+375	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Master	Lernende können verschiedene Wege, Daten langfristig zu archivieren beschreiben.	SK	1
+376	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Master	Lernende können institutionelle Lösungen (Repositorien) nennen.	SK	1
+377	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Master	Lernende können unter Anleitung institutionelle Lösungen anwenden.	SK	3
+378	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	PhD	Lernende können erklären, warum LZAvon Forschungsdaten von Bedeutung ist.	SK	2
+379	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	PhD	Lernende können Kriterien nennen, nach denen Repositorien für eine LZAausgewählt werden sollten.	SK	2
+380	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	PhD	Lernende können passende Repositorien für eine LZAeigenständig auswählen.	SK	5
+381	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Data Stewards	Lernende können besondere Anforderungen einer LZAvon Forschungsdaten beschreiben und vermitteln.	SK	2
+382	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Data Stewards	Lernende können besondere Anforderungen einer LZAvon Forschungsdaten beschreiben und vermitteln.	SoK	3
+383	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Data Stewards	Lernende können bezüglich besonderer Anforderungen an eine LZAvon Forschungsdaten beraten.	SK	2
+384	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Data Stewards	Lernende können bezüglich besonderer Anforderungen an eine LZAvon Forschungsdaten beraten.	Sok	3
+385	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Data Stewards	Lernende können technische Aspekte, die für eine LZA zu berücksichtigt sind, erläutern.	SK	2
+386	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Data Stewards	Lernende können darlegen, welche Vorkehrungen getroffen werden müssen, damit Daten für längere Zeit verfügbar sein können und ihre Authentizität und Integrität  erhalten bleibt.	SK	4
+387	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Data Stewards	Lernende können projektspezifisch bzgl. passender Repositorien für eine LZAvon Forschungsdaten beraten.	SK	5
+388	Langzeitarchivierung, Publikation, Nachnutzung	Langzeitarchivierung von Daten	Data Stewards	Lernende können projektspezifisch bzgl. passender Repositorien für eine LZAvon Forschungsdaten beraten.	SoK	3
+389	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Bachelor	Lernende können erläutern, was eine Datenpublikation ist.	SK	1
+390	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Bachelor	Lernende können Bestandteile einer Datenpublikation nennen.	SK	2
+391	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Bachelor	Lernende können verschiedene Publikationswege für Daten nennen.	SK	2
+392	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Bachelor	Lernende können Vor- und Nachteile einer Datenpublikation aufzählen.	SK	2
+393	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Master	Lernende können Vor- und Nachteile einer Datenpublikation diskutieren.	SK	4
+394	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Master	Lernende können Vor- und Nachteile einer Datenpublikation diskutieren.	SoK	3
+395	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Master	Lernende können eigene Daten unter Anleitung publizieren.	MK	3
+396	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	PhD	Lernende können den Nutzen und die Vorbehalte einer Datenpublikation kritisch diskutieren.	SK	3
+397	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	PhD	Lernende können die Sinnhaftigkeit von Datenveröffentlichungen in spezifischen Fällen abwägen und bewerten.	SK	5
+398	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	PhD	Lernende können erläutern, welche Zusatzinformationen für einen Datensatz von Bedeutung sind.	SK	3
+399	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	PhD	Lernende können erläutern, in welchen Zusammenhängen die Rechte Dritter beachtet werden müssen.	SK	3
+400	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	PhD	Lernende können eigenständig Daten publizieren.	MK	4
+401	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Data Stewards	Lernende können den Nutzen von Datenpublikationen vermitteln.	SK	2
+402	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Data Stewards	Lernende können den Nutzen von Datenpublikationen vermitteln.	MK	3
+403	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Data Stewards	Lernende können Vor- und Nachteile verschiedener Publikationswege für Daten projektbezogen vermitteln.	SK	2
+404	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Data Stewards	Lernende können Vor- und Nachteile verschiedener Publikationswege für Daten projektbezogen vermitteln.	MK	3
+405	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Data Stewards	Lernende können bezüglich der Beachtung von Rechten Dritter bei Datenpublikationen Orientierung bieten.	SK	3
+406	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Data Stewards	Lernende können bezüglich der Beachtung von Rechten Dritter bei Datenpublikationen Orientierung bieten.	MK	2
+407	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Data Stewards	Lernende können erläutern und vermitteln, welche Zusatzinformationen für einen Datensatz von Bedeutung sind.	SK	2
+408	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Data Stewards	Lernende können andere anleiten, eigenständig Daten zu publizieren.	MK	4
+409	Langzeitarchivierung, Publikation, Nachnutzung	Publikationswege für Daten	Data Stewards	Lernende können andere anleiten, eigenständig Daten zu publizieren.	SoK	3
+410	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Bachelor	Lernende können erläutern, was ein Repositorium ist.	SK	1
+411	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Bachelor	Lernende können verschiedene Arten von Repositorien benennen.	SK	2
+412	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Bachelor	Lernende können Vor- und Nachteile verschiedener Datenrepositorien benennen.	SK	2
+413	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Bachelor	Lernende können unter Anleitung nach und in Repositorien nach Daten suchen.	MK	2
+414	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Master	Lernende können eigenständig nach und in Repositorien nach Daten suchen.	MK	3
+415	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	PhD	Lernende können Kriterien für die Auswahl eines Repositoriums nennen.	SK	4
+416	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	PhD	Lernende können eigenständig Repositorien für Datennachnutzung und Veröffentlichung eigener Daten auswählen.	MK	4
+417	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Data Stewards	Lernende können Aufgaben von Repositorien und ihre organisatorische Einbindung in existierende Prozesse darstellen und vermitteln.	SK	2
+418	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Data Stewards	Lernende können Aufgaben von Repositorien und ihre organisatorische Einbindung in existierende Prozesse darstellen und vermitteln.	MK	3
+419	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Data Stewards	Lernende können zu wichtigen technischen, rechtlichen und organisatorischen Anforderungen für den Betrieb von Repositorien beraten und Orientierung geben bzw. an hierzu ausgewiesenes Fachpersonal verweisen.	SK	3
+420	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Data Stewards	Lernende können Vor- und Nachteile verschiedener Datenrepositorien projektbezogen darlegen.	SK	3
+421	Langzeitarchivierung, Publikation, Nachnutzung	Repositorien	Data Stewards	Lernende können Repositorien in der Forschungsdatenlandschaft verorten.	SK	3
+422	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Bachelor	Lernende können die Vor- und Nachteile der Nachnutzung von Daten benennen.	SK	2
+423	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Bachelor	Lernende können die Voraussetzungen zur Nachnutzung von Daten benennen.	SK	2
+424	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Bachelor	Lernende können Informationsquellen für das Recherchieren nach Forschungsdaten benennen.	SK	1
+425	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Bachelor	Lernende können unter Anleitung Forschungsdaten recherchieren.	MK	2
+426	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Bachelor	Lernende können unter Anleitung Regeln des Zitierens von Forschungsdaten anwenden.	MK	2
+427	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Master	Lernende können verschiedene Informationsquellen, Recherche-Tools und -strategien für das Recherchieren nach Forschungsdaten benennen und nutzen.	SK	2
+428	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Master	Lernende können eigenständig für eigene Projekte relevante Forschungsdaten recherchieren.	MK	3
+429	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Master	Lernende können nachgenutzte Daten eigenständig korrekt zitieren.	MK	3
+430	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	PhD	Lernende können verschiedene Informationsquellen, Recherchewerkzeuge und -strategien für das Recherchieren nach Forschungsdaten benennen, nutzen und kritisch bewerten.	SK	4
+431	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	PhD	Lernende können verschiedene Informationsquellen, Recherchewerkzeuge und -strategien für das Recherchieren nach Forschungsdaten benennen, nutzen und kritisch bewerten.	MK	4
+432	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Data Stewards	Lernende können verschiedene Informationsquellen, Recherche-Tools und -strategien für das Recherchieren nach Forschungsdaten beschreiben und an Dritte zielgruppengerecht vermitteln.	SK	4
+433	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Data Stewards	Lernende können verschiedene Informationsquellen, Recherche-Tools und -strategien für das Recherchieren nach Forschungsdaten beschreiben und an Dritte zielgruppengerecht vermitteln.	MK	4
+434	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Data Stewards	Lernende können verschiedene Informationsquellen, Recherche-Tools und -strategien für das Recherchieren nach Forschungsdaten beschreiben und an Dritte zielgruppengerecht vermitteln.	SoK	4
+435	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Data Stewards	Lernende können regeln der Datenzitation nennen und zielgruppengerecht an Dritte vermitteln.	SK	3
+436	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Data Stewards	Lernende können regeln der Datenzitation nennen und zielgruppengerecht an Dritte vermitteln.	MK	3
+437	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Data Stewards	Lernende können regeln der Datenzitation nennen und zielgruppengerecht an Dritte vermitteln.	SoK	3
+438	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Data Stewards	Lernende können bezüglich der Nachnutzbarkeit von Daten beraten und Orientierung geben.	MK	3
+439	Langzeitarchivierung, Publikation, Nachnutzung	Daten nachnutzen	Data Stewards	Lernende können bezüglich der Nachnutzbarkeit von Daten beraten und Orientierung geben.	SoK	3
+440	Recht und Ethik	Allgemeine rechtliche Aspekte	Bachelor	Lernende können die das FDM tangierenden Rechtsbereiche aufzählen.	SK	1
+441	Recht und Ethik	Allgemeine rechtliche Aspekte	Bachelor	Lernende können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern.	SK	2
+442	Recht und Ethik	Allgemeine rechtliche Aspekte	Bachelor	Lernende können relevante Lizenzsysteme benennen.	SK	1
+443	Recht und Ethik	Allgemeine rechtliche Aspekte	Bachelor	Lernende können die Eigenschaften offener und restriktiver Lizenzen beschreiben.	SK	2
+444	Recht und Ethik	Allgemeine rechtliche Aspekte	Master	Lernende können unter Anleitung eine geeignete Lizenz für die Veröffentlichung von eigenen Forschungsdaten auswählen.	SK	4
+445	Recht und Ethik	Allgemeine rechtliche Aspekte	Master	Lernende können unter Anleitung eine geeignete Lizenz für die Veröffentlichung von eigenen Forschungsdaten auswählen.	MK	4
+446	Recht und Ethik	Allgemeine rechtliche Aspekte	PhD	Lernende können das Urheberrecht betreffende Regeln auf ihr Forschungsvorhaben anwenden.	SK	4
+447	Recht und Ethik	Allgemeine rechtliche Aspekte	PhD	Lernende können das Urheberrecht betreffende Regeln auf ihr Forschungsvorhaben anwenden.	MK	3
+448	Recht und Ethik	Allgemeine rechtliche Aspekte	PhD	Lernende können eigenständig eine geeignete Lizenz für die Veröffentlichung von eigenen Forschungsdaten auswählen.	SK	4
+449	Recht und Ethik	Allgemeine rechtliche Aspekte	PhD	Lernende können eigenständig eine geeignete Lizenz für die Veröffentlichung von eigenen Forschungsdaten auswählen.	MK	4
+450	Recht und Ethik	Allgemeine rechtliche Aspekte	PhD	Lernende können eigenständig ihre Publikation für die ausgewählte Lizenz im Hinblick auf Urheber- und Lizenzrecht rechtssicher aufbereiten.	SK	6
+451	Recht und Ethik	Allgemeine rechtliche Aspekte	PhD	Lernende können eigenständig ihre Publikation für die ausgewählte Lizenz im Hinblick auf Urheber- und Lizenzrecht rechtssicher aufbereiten.	MK	6
+452	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können Initiativen, Akteure und Ansprechpartner*innen zu Rechtsaspekten des FDM benennen.	SK	1
+453	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können die verschiedenen Ebenen der gesetzlichen Regelungen, die beim FDM bedeutend sind, skizzieren und vermitteln.	SK	3
+454	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können die verschiedenen Ebenen der gesetzlichen Regelungen, die beim FDM bedeutend sind, skizzieren und vermitteln.	SoK	3
+455	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können die an den unterschiedlichen Stellen des Forschungskreislaufs zu beachtenden rechtlichen Aspekte bestimmen und entsprechend beraten und schulen.	MK	4
+456	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können die an den unterschiedlichen Stellen des Forschungskreislaufs zu beachtenden rechtlichen Aspekte bestimmen und entsprechend beraten und schulen.	SoK	3
+457	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können die für eine Open-Science-Veröffentlichung benötigten rechtlichen Aspekte bestimmen.	SK	3
+458	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können bzgl. der rechtlichen Aspekte einer Open-Science-Veröffentlichung Orientierung geben.	SK	4
+459	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können bzgl. der rechtlichen Aspekte einer Open-Science-Veröffentlichung Orientierung geben.	SoK	4
+460	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können zu grundlegenden Anfragen zum Urheberrecht Orientierung geben und ggf. an ausgewiesenes Personal weiterleiten.	SK	5
+461	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können zu grundlegenden Anfragen zum Urheberrecht Orientierung geben und ggf. an ausgewiesenes Personal weiterleiten.	MK	5
+462	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können zu grundlegenden Anfragen zum Lizenzrecht Orientierung geben und ggf. an ausgewiesenes Personal weiterleiten.	SK	5
+463	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können zu grundlegenden Anfragen zum Lizenzrecht Orientierung geben und ggf. an ausgewiesenes Personal weiterleiten.	MK	5
+464	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können die aktuellen rechtlichen Entwicklungen bzgl. FDM skizzieren und zu Grundlagen schulen.	SK	4
+465	Recht und Ethik	Allgemeine rechtliche Aspekte	Data Stewards	Lernende können die aktuellen rechtlichen Entwicklungen bzgl. FDM skizzieren und zu Grundlagen schulen.	MK	4
+466	Recht und Ethik	Datenschutz und personenbezogene Daten	Bachelor	Lernende können Beweggründe für einen besonderen Schutz personenbezogener Daten nennen.	SK	2
+467	Recht und Ethik	Datenschutz und personenbezogene Daten	Bachelor	Lernende können die Rechtsgrundlagen zum Schutz personenbezogener Daten benennen.	SK	1
+468	Recht und Ethik	Datenschutz und personenbezogene Daten	Bachelor	Lernende können darstellen, was personenbezogene und sensible Daten sind und entsprechende Beispiele nennen.	SK	3
+469	Recht und Ethik	Datenschutz und personenbezogene Daten	Bachelor	Lernende können Methoden und Maßnahmen benennen, die die Identität von Forschungsteilnehmenden schützen.	SK	2
+470	Recht und Ethik	Datenschutz und personenbezogene Daten	Bachelor	Lernende können die Hinweispflichten, die für die Erhebung personenbezogener Daten für Forschungszwecke gelten, nennen.	SK	2
+471	Recht und Ethik	Datenschutz und personenbezogene Daten	Bachelor	Lernende können die Bedeutung der Datensicherheit für den Datenschutz erläutern.	SK	2
+472	Recht und Ethik	Datenschutz und personenbezogene Daten	Master	Lernende können erkennen, ob ihre eigenen Forschungsdaten personenbezogene Daten enthalten.	SK	3
+473	Recht und Ethik	Datenschutz und personenbezogene Daten	Master	Lernende können erkennen, ob ihre eigenen Forschungsdaten personenbezogene Daten enthalten.	MK	3
+474	Recht und Ethik	Datenschutz und personenbezogene Daten	Master	Lernende können unter Anleitung für die eigene Forschung geeignete Methoden anwenden, die die Identität der Forschungsteilnehmenden schützen.	MK	4
+475	Recht und Ethik	Datenschutz und personenbezogene Daten	PhD	Lernende können eigenständig für die eigene Forschung geeignete Methoden auswählen und anwenden, die die Identität der Forschungsteilnehmenden schützen.	MK	4
+476	Recht und Ethik	Datenschutz und personenbezogene Daten	Data Stewards	Lernende können relevante Initiativen, Akteure und Ansprechpartner*innen benennen.	SK	1
+477	Recht und Ethik	Datenschutz und personenbezogene Daten	Data Stewards	Lernende können aktuelle rechtlichen Entwicklungen skizzieren und vermitteln.	SK	2
+478	Recht und Ethik	Datenschutz und personenbezogene Daten	Data Stewards	Lernende können anderen bezüglich Methoden und Maßnahmen, die für eine Verarbeitung und Publikation personenbezogener Daten erforderlichen sind, Orientierung geben.	SK	4
+479	Recht und Ethik	Datenschutz und personenbezogene Daten	Data Stewards	Lernende können anderen bezüglich Methoden und Maßnahmen, die für eine Verarbeitung und Publikation personenbezogener Daten erforderlichen sind, Orientierung geben.	MK	4
+480	Recht und Ethik	Datenschutz und personenbezogene Daten	Data Stewards	Lernende können zu grundlegenden Anfragen zum Datenschutz Orientierung geben und ggf. an ausgewiesenes Personal weiterleiten.	SK	5
+481	Recht und Ethik	Datenschutz und personenbezogene Daten	Data Stewards	Lernende können zu grundlegenden Anfragen zum Datenschutz Orientierung geben und ggf. an ausgewiesenes Personal weiterleiten.	MK	5
+482	Recht und Ethik	Informierte Einwilligung	Bachelor	Lernende können Inhalte und Bedeutung einer informierten Einwilligung beschreiben.	SK	2
+483	Recht und Ethik	Informierte Einwilligung	Master	Lernende können mithilfe von Vorlagen eine informierte Einwilligung für eigene Forschungsarbeiten verfassen.	MK	5
+484	Recht und Ethik	Informierte Einwilligung	PhD	Lernende können eigenständig bewerten, ob sie eine informierte Einwilligung für ihr Forschungsvorhaben einholen müssen.	MK	5
+485	Recht und Ethik	Informierte Einwilligung	PhD	Lernende können mithilfe von Vorlagen eine informierte Einwilligung für eigene Forschungsarbeiten verfassen.	MK	5
+486	Recht und Ethik	Informierte Einwilligung	Data Stewards	Lernende können Inhalte und Bedeutung einer informierten Einwilligung vermitteln.	SK	4
+487	Recht und Ethik	Informierte Einwilligung	Data Stewards	Lernende können Inhalte und Bedeutung einer informierten Einwilligung vermitteln.	MK	4
+488	Recht und Ethik	Informierte Einwilligung	Data Stewards	Lernende können bezüglich der Inhalte einer informierten Einwilligung Orientierung geben.	SK	4
+489	Recht und Ethik	Informierte Einwilligung	Data Stewards	Lernende können bezüglich der Inhalte einer informierten Einwilligung Orientierung geben.	MK	4
+490	Recht und Ethik	Informierte Einwilligung	Data Stewards	Lernende können Vorlagen für Informierte Einwilligungen entwerfen.	SK	
+491	Recht und Ethik	Informierte Einwilligung	Data Stewards	Lernende können Vorlagen für Informierte Einwilligungen entwerfen.	MK	5
+492	Recht und Ethik	Anonymisierung und Pseudonymisierung	Bachelor	Lernende können die Definitionen der Begriffe Anonymisierung und Pseudonymisierung wiedergeben.	SK	1
+493	Recht und Ethik	Anonymisierung und Pseudonymisierung	Bachelor	Lernende können den Unterschied zwischen Anonymisierung und Pseudonymisierung erläutern.	SK	2
+494	Recht und Ethik	Anonymisierung und Pseudonymisierung	Bachelor	Lernende können direkt identifizierende Attribute in einem Datensatz erkennen.	SK	2
+495	Recht und Ethik	Anonymisierung und Pseudonymisierung	Bachelor	Lernende können direkt identifizierende Attribute in einem Datensatz erkennen.	MK	2
+496	Recht und Ethik	Anonymisierung und Pseudonymisierung	Bachelor	Lernende können verschiedene Verfahren zur Anonymisierung und Pseudonymisierung von Daten beschreiben.	SK	2
+497	Recht und Ethik	Anonymisierung und Pseudonymisierung	Bachelor	Lernende können Verfahren zur Anonymisierung und Pseudonymisierung unter Anleitung auf eigene Daten anwenden.	MK	3
+498	Recht und Ethik	Anonymisierung und Pseudonymisierung	Master	Lernende können Verfahren zur Anonymisierung und Pseudonymisierung unter Anleitung auf eigene Daten anwenden.	MK	3
+499	Recht und Ethik	Anonymisierung und Pseudonymisierung	PhD	Lernende können verschiedene Verfahren zur Anonymisierung und Pseudonymisierung von Daten eigenständig auf eigene Daten anwenden.	SK	3
+500	Recht und Ethik	Anonymisierung und Pseudonymisierung	PhD	Lernende können verschiedene Verfahren zur Anonymisierung und Pseudonymisierung von Daten eigenständig auf eigene Daten anwenden.	MK	3
+501	Recht und Ethik	Anonymisierung und Pseudonymisierung	PhD	Lernende können eigenständig den Grad der Anonymisierbarkeit ihrer Daten bezogen auf den Informationsgehalt beurteilen.	SK	5
+502	Recht und Ethik	Anonymisierung und Pseudonymisierung	Data Stewards	Lernende können verschiedene Verfahren zur Anonymisierung und Pseudonymisierung von Daten beschreiben und Grundlagen vermitteln.	SK	3
+503	Recht und Ethik	Anonymisierung und Pseudonymisierung	Data Stewards	Lernende können verschiedene Verfahren zur Anonymisierung und Pseudonymisierung von Daten beschreiben und Grundlagen vermitteln.	MK	3
+504	Recht und Ethik	Anonymisierung und Pseudonymisierung	Data Stewards	Lernende können verschiedene Verfahren zur Anonymisierung und Pseudonymisierung von Daten beschreiben und Grundlagen vermitteln.	SoK	3
+505	Recht und Ethik	Anonymisierung und Pseudonymisierung	Data Stewards	Lernende können bzgl. der Auswahl eines geeigneten Verfahrens Orientierung geben.	SK	3
+506	Recht und Ethik	Anonymisierung und Pseudonymisierung	Data Stewards	Lernende können bzgl. der Auswahl eines geeigneten Verfahrens Orientierung geben.	MK	3
+507	Recht und Ethik	Anonymisierung und Pseudonymisierung	Data Stewards	Lernende können zur Beurteilung des Grads der Anonymisierbarkeit von Forschungsdaten bezogen auf den Informationsgehalt Orientierung geben.	SK	4
+508	Recht und Ethik	Anonymisierung und Pseudonymisierung	Data Stewards	Lernende können zur Beurteilung des Grads der Anonymisierbarkeit von Forschungsdaten bezogen auf den Informationsgehalt Orientierung geben.	MK	4
+509	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Bachelor	Lernende können ethische Dimensionen im Umgang mit Daten benennen.	SK	1
+510	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Bachelor	Lernende können einen verantwortungsvollen Umgang mit Daten beschreiben.	SK	2
+511	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Bachelor	Lernende können die Grundprinzipien Guter Wissenschaftlicher Praxis erläutern.	SK	2
+512	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Bachelor	Lernende können die CARE-Prinzipien beschreiben.	SK	2
+513	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Master	Lernende können angeben, in welchen Forschungszusammenhängen eine Auskunft zu ethischen Aspekten nötig ist.	SK	2
+514	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Master	Lernende können einstufen, ob und welche ethischen Dimensionen in eigenen Projekten eine Rolle spielen und diese diskutieren.	MK	4
+515	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Master	Lernende können den Umgang mit Daten aus ethischer Perspektive hinterfragen.	MK	5
+516	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	PhD	Lernende können einstufen, ob in eigenen Forschungszusammenhängen eine Auskunft zu ethischen Aspekten nötig ist.	SK	4
+517	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	PhD	Lernende können eine Auskunft zu ethischen Aspekten der eigenen Forschungsprojekte selbständig formulieren.	MK	4
+518	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Data Stewards	Lernende können Initiativen, Akteure und Ansprechpartner*innen zu Ethikaspekten mit Bezug auf Forschungsdaten benennen.	SK	1
+519	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Data Stewards	Lernende können die an den unterschiedlichen Stellen des Forschungskreislaufs zu beachtenden ethischen Aspekte benennen.	SK	2
+520	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Data Stewards	Lernende können die relevanten Vorgaben der Forschungsförderer benennen und Forschende hierzu beraten.	SK	3
+521	Recht und Ethik	Ethische Aspekte und Gute Wissenschaftliche Praxis (GWP)	Data Stewards	Lernende können die relevanten Vorgaben der Forschungsförderer benennen und Forschende hierzu beraten.	MK	3
+522	Unterstützungsstrukturen	Rollen im Datenmanagement / Data Stewardship	Data Stewards	Lernende können die verschiedenen Handlungsfelder und Rollen im FDM beschreiben.	SK	2
+523	Unterstützungsstrukturen	Handlungsfelder im FDM; typische Problemstellungen im beruflichen Zusammenhang	Data Stewards	Lernende können zu Problemstellungen im Bereich FDM in ihrem beruflichen Alltag Lösungsstrategien entwickeln.	MK	6
+524	Unterstützungsstrukturen	Relevante Infrastrukturen	Bachelor	Lernende können Ansprechpersonen/Abteilungen zum FDM an ihren Institutionen benennen.	SK	2
+525	Unterstützungsstrukturen	Relevante Infrastrukturen	Master	Lernende können Ansprechpersonen/Abteilungen zum FDM an ihren Institutionen benennen und Services unter Anleitung anwenden.	SK	3
+526	Unterstützungsstrukturen	Relevante Infrastrukturen	PhD	Lernende können Ansprechpersonen/Abteilungen zum FDM an ihren Institutionen benennen und Services eigenständig Anleitung anwenden.	SK	3
+527	Unterstützungsstrukturen	Relevante Infrastrukturen	Data Stewards	Lernende können typische Services zum FDM an Hochschulen/Universitäten oder anderen Forschungseinrichtungen benennen.	SK	2
+528	Unterstützungsstrukturen	Relevante Infrastrukturen	Data Stewards	Lernende können die Dienste der eigenen Einrichtung bzw. einer Beispieleinrichtung zum Umgang mit Forschungsdaten beschreiben.	SK	2
+529	Unterstützungsstrukturen	Relevante Infrastrukturen	Data Stewards	Lernende können eigenständig nach Ansprechpersonen für verschiedene FDM-relevante Services recherchieren.	MK	3
+530	Unterstützungsstrukturen	Didaktik	PhD	Lernende können FDM-relevante Inhalte für eigene Fachveranstaltungen identifizieren und vermitteln.	MK	3
+531	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können Bedingungen für ein anregendes Lehren wiedergeben.	SK	1
+532	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können Konzepte zum Lernprozess skizzieren (z. B. Döring).	SK	2
+533	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können eigene Schulungen auf Basis vorhandener Konzepte und Methoden entwickeln.	MK	3
+534	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können die 3-Z-Formel auf eigene Schulungskonzepte anwenden	MK	3
+535	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können inhaltliche und organisatorische Aspekte eines Workshopaufbaus bewerten.	MK	5
+536	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können unterschiedliche didaktische Methoden und deren Ziele voneinander unterscheiden.	SK	4
+537	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können verschiedene didaktische Methode in ihren Schulungen so einsetzen, dass sie einen Beitrag zum Lernerfolg leisten.	SoK	6
+538	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können die Unterschiede zwischen den Funktionsweisen und Anwendungsbereichen von Evaluation und Feedback benennen.	SK	2
+539	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können geeignete/vorhandene Evaluations- und Feedback-Methoden für ihre Schulungen anwenden.	MK	
+540	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können geeignete/vorhandene Evaluations- und Feedback-Methoden für ihre Schulungen anwenden.	SoK	3
+541	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können eigene Evaluations- und Feedbackmethoden für ihre Schulungen entwickeln und anwenden.	MK	
+542	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können eigene Evaluations- und Feedbackmethoden für ihre Schulungen entwickeln und anwenden.	SoK	6
+543	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können eigenständig Schulungskonzepte für verschiedene Zielgruppen entwickeln.	MK	6
+544	Unterstützungsstrukturen	Didaktik	Data Stewards	Lernende können eigenständig Schulungskonzepte für verschiedene Zielgruppen entwickeln.	SoK	4
+545	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können zwischen verschiedenen Ansätzen und Methoden für die Beratung differenzieren.	SK	4
+546	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können zwischen verschiedenen Ansätzen und Methoden für die Beratung differenzieren.	MK	3
+547	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können geeignete Ansätze und Methoden für unterschiedliche Beratungssettings anwenden.	SK	3
+548	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können geeignete Ansätze und Methoden für unterschiedliche Beratungssettings anwenden.	MK	3
+549	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können geeignete Ansätze und Methoden für unterschiedliche Beratungssettings anwenden.	SoK	3
+550	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können verschiedene Zielgruppen zu generischen und auf das FDM bezogenen Anliegen und Konzepten beraten.	SK	3
+551	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können verschiedene Zielgruppen zu generischen und auf das FDM bezogenen Anliegen und Konzepten beraten.	MK	3
+552	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können verschiedene Zielgruppen zu generischen und auf das FDM bezogenen Anliegen und Konzepten beraten.	SoK	3
+553	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können Grenzen der Beratungsleistung aufzeigen und auf weitere Anlaufstellen (z. B. bei fachlichen oder rechtlichen Anliegen) verweisen.	SK	4
+554	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können Grenzen der Beratungsleistung aufzeigen und auf weitere Anlaufstellen (z. B. bei fachlichen oder rechtlichen Anliegen) verweisen.	SeK	5
+555	Unterstützungsstrukturen	Beratung	Data Stewards	Lernende können Grenzen der Beratungsleistung aufzeigen und auf weitere Anlaufstellen (z. B. bei fachlichen oder rechtlichen Anliegen) verweisen.	SoK	5
